@@ -1,0 +1,146 @@
+
+ZYWangPaiHaoJian.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 251, 4
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 374, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 179, 2
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 179, 39
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 283, 41
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 444, 87
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 374, 35
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: true
+  xy: 486, 103
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 286, 16
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: false
+  xy: 419, 18
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+yt1
+  rotate: false
+  xy: 309, 18
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+yt2
+  rotate: true
+  xy: 486, 82
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+yt3
+  rotate: false
+  xy: 442, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: true
+  xy: 444, 66
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 419, 37
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: false
+  xy: 463, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: false
+  xy: 444, 44
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+zt2
+  rotate: true
+  xy: 333, 20
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+zt3
+  rotate: false
+  xy: 443, 22
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

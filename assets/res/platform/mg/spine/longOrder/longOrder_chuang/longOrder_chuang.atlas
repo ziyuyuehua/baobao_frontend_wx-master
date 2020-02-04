@@ -1,0 +1,13 @@
+
+longOrder_chuang.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoche3
+  rotate: false
+  xy: 2, 2
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1

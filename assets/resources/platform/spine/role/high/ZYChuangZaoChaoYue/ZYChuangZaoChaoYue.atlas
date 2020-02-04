@@ -1,0 +1,146 @@
+
+ZYChuangZaoChaoYue.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 76
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 12
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+erhuan
+  rotate: true
+  xy: 2, 2
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+fadi
+  rotate: false
+  xy: 127, 129
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+fashu_a
+  rotate: true
+  xy: 325, 155
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+fashu_b
+  rotate: true
+  xy: 97, 38
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 424, 168
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 97, 52
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 452, 216
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+qun
+  rotate: true
+  xy: 452, 176
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 234, 146
+  size: 54, 4
+  orig: 54, 4
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 127, 76
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 234, 152
+  size: 89, 99
+  orig: 89, 99
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 325, 167
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 171, 103
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 127, 102
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 424, 210
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 485, 218
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 72, 30
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+zuoyui
+  rotate: true
+  xy: 171, 83
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1

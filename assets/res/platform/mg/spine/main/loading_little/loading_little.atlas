@@ -1,0 +1,118 @@
+
+loading_little.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Loading
+  rotate: false
+  xy: 134, 89
+  size: 119, 35
+  orig: 119, 35
+  offset: 0, 0
+  index: -1
+maomaotou
+  rotate: false
+  xy: 2, 23
+  size: 130, 101
+  orig: 130, 101
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 197, 44
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: true
+  xy: 255, 88
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+yq1
+  rotate: true
+  xy: 327, 101
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+yq2
+  rotate: true
+  xy: 355, 102
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 134, 29
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+yuandian1
+  rotate: false
+  xy: 300, 99
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+yuandian2
+  rotate: false
+  xy: 383, 101
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+yuandian3
+  rotate: false
+  xy: 2, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yuandian4
+  rotate: false
+  xy: 408, 105
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yuandian5
+  rotate: false
+  xy: 23, 6
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yuandian6
+  rotate: false
+  xy: 235, 72
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+yuandian7
+  rotate: false
+  xy: 235, 59
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+yuandian8
+  rotate: false
+  xy: 197, 30
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+yuandian9
+  rotate: false
+  xy: 429, 113
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1

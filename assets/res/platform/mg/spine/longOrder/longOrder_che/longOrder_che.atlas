@@ -1,0 +1,48 @@
+
+longOrder_che.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoche
+  rotate: true
+  xy: 450, 176
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+huoche6
+  rotate: false
+  xy: 2, 2
+  size: 251, 118
+  orig: 251, 118
+  offset: 0, 0
+  index: -1
+huoche7
+  rotate: false
+  xy: 350, 128
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+huoche8
+  rotate: false
+  xy: 2, 122
+  size: 346, 115
+  orig: 346, 115
+  offset: 0, 0
+  index: -1
+huoche9
+  rotate: false
+  xy: 255, 15
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+yan_02
+  rotate: false
+  xy: 255, 43
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

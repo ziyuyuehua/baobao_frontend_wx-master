@@ -1,0 +1,195 @@
+
+YSMoShouMaiDiWen.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 247, 136
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 127, 81
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+clothes_l
+  rotate: true
+  xy: 356, 193
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+clothes_r
+  rotate: false
+  xy: 93, 3
+  size: 18, 74
+  orig: 18, 74
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 356, 219
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 145
+  size: 118, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 2, 2
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+hair_l
+  rotate: false
+  xy: 197, 89
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+hair_r
+  rotate: true
+  xy: 428, 231
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 247, 163
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 356, 162
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 298, 134
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+other
+  rotate: false
+  xy: 113, 59
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 349, 133
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 284, 88
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 333, 163
+  size: 21, 91
+  orig: 21, 91
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 233, 105
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 233, 77
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+yjiao
+  rotate: true
+  xy: 113, 19
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+youbi1
+  rotate: false
+  xy: 365, 106
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+youbi2
+  rotate: false
+  xy: 340, 95
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 489, 225
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+zjiao
+  rotate: true
+  xy: 113, 39
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+zuobi1
+  rotate: false
+  xy: 407, 165
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+zuobi2
+  rotate: true
+  xy: 113, 4
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 315, 90
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1

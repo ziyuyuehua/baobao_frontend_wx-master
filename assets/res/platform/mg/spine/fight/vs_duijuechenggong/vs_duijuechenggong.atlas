@@ -1,0 +1,34 @@
+
+vs_duijuechenggong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chenggong
+  rotate: false
+  xy: 2, 178
+  size: 293, 76
+  orig: 293, 76
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 2, 2
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: false
+  xy: 297, 178
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+xingxingpng
+  rotate: false
+  xy: 2, 93
+  size: 188, 83
+  orig: 188, 83
+  offset: 0, 0
+  index: -1

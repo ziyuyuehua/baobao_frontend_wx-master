@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "breakStaffAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.55,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "df176fa2-6800-43a3-9e56-aecf9a5d684c"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "74ec6f0b-c663-495a-8c27-0655e363fe4e"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "7c4a6e4e-fd76-4bbf-a1b3-df196b062ea8"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "9283bc5c-8727-4ea5-b064-d675fc97203f"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "07344bea-b5b3-4799-ba79-22461a37999b"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "7518f7c3-8204-4e7f-b3fa-61d1cac5b34c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

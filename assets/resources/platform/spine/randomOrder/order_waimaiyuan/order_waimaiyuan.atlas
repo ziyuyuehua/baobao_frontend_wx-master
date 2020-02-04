@@ -1,0 +1,55 @@
+
+order_waimaiyuan.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shang
+  rotate: false
+  xy: 107, 80
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 21
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+xia
+  rotate: false
+  xy: 160, 108
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+you
+  rotate: true
+  xy: 2, 2
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 143, 95
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 107, 35
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 43, 2
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1

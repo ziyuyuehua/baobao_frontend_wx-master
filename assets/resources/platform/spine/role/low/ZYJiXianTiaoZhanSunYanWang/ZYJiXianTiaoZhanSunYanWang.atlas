@@ -1,0 +1,83 @@
+
+ZYJiXianTiaoZhanSunYanWang.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 2
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 276, 63
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 426, 118
+  size: 50, 7
+  orig: 50, 7
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 276, 25
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 179, 23
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 335, 47
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 346, 100
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 346, 74
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 389, 80
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 179, 2
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 222, 2
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1

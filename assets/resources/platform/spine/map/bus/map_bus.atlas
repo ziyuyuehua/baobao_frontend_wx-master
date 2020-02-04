@@ -1,0 +1,20 @@
+
+map_bus.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che
+  rotate: false
+  xy: 2, 132
+  size: 482, 375
+  orig: 482, 375
+  offset: 0, 0
+  index: -1
+yan_02
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

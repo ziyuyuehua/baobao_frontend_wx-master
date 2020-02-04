@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "itemRew",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3125,
+  "sample": 16,
+  "speed": 0.3,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "New Node12/bt": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.0625,
+              "value": true
+            }
+          ]
+        }
+      },
+      "New Node12/bt/lqwp": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.1875,
+              "value": true
+            }
+          ]
+        }
+      },
+      "New Node12/staffNode": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "New Node12/框_00015/New Node": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.25,
+              "value": true
+            }
+          ]
+        }
+      },
+      "New Node12/New Button": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 0.3125,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "New Node12/框_00015": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

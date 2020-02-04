@@ -1,0 +1,216 @@
+
+recruit_niudanji4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodan/niudan_bao_caise/add/niudan_bao_caise_add_00001
+  rotate: false
+  xy: 2, 756
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/add/niudan_bao_caise_add_00003
+  rotate: false
+  xy: 2, 606
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/add/niudan_bao_caise_add_00005
+  rotate: false
+  xy: 154, 756
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/add/niudan_bao_caise_add_00007
+  rotate: false
+  xy: 2, 456
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/add/niudan_bao_caise_add_00009
+  rotate: false
+  xy: 154, 606
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/add/niudan_bao_caise_add_00011
+  rotate: false
+  xy: 306, 756
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/add/niudan_bao_caise_add_00013
+  rotate: false
+  xy: 2, 306
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/add/niudan_bao_caise_add_00014
+  rotate: false
+  xy: 154, 456
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/alpha/niudan_bao_caise_alpha_00001
+  rotate: false
+  xy: 306, 606
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/alpha/niudan_bao_caise_alpha_00003
+  rotate: false
+  xy: 458, 756
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/alpha/niudan_bao_caise_alpha_00005
+  rotate: false
+  xy: 2, 156
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/alpha/niudan_bao_caise_alpha_00007
+  rotate: false
+  xy: 154, 306
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/alpha/niudan_bao_caise_alpha_00009
+  rotate: false
+  xy: 306, 456
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/alpha/niudan_bao_caise_alpha_00011
+  rotate: false
+  xy: 458, 606
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/alpha/niudan_bao_caise_alpha_00013
+  rotate: false
+  xy: 610, 756
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_caise/alpha/niudan_bao_caise_alpha_00015
+  rotate: false
+  xy: 2, 6
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/add/niudan_bao_chengse_add_00001
+  rotate: false
+  xy: 154, 154
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/add/niudan_bao_chengse_add_00003
+  rotate: true
+  xy: 306, 309
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/add/niudan_bao_chengse_add_00005
+  rotate: false
+  xy: 458, 454
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/add/niudan_bao_chengse_add_00007
+  rotate: true
+  xy: 610, 609
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/add/niudan_bao_chengse_add_00009
+  rotate: false
+  xy: 762, 754
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/add/niudan_bao_chengse_add_00011
+  rotate: false
+  xy: 154, 2
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/alpha/niudan_bao_chengse_alpha_00001
+  rotate: false
+  xy: 458, 302
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/alpha/niudan_bao_chengse_alpha_00003
+  rotate: false
+  xy: 762, 602
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/alpha/niudan_bao_chengse_alpha_00005
+  rotate: true
+  xy: 306, 162
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/alpha/niudan_bao_chengse_alpha_00007
+  rotate: false
+  xy: 301, 10
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/alpha/niudan_bao_chengse_alpha_00009
+  rotate: false
+  xy: 458, 150
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/alpha/niudan_bao_chengse_alpha_00011
+  rotate: true
+  xy: 448, 3
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/alpha/niudan_bao_chengse_alpha_00013
+  rotate: true
+  xy: 610, 462
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+baodan/niudan_bao_chengse/alpha/niudan_bao_chengse_alpha_00014
+  rotate: false
+  xy: 605, 310
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1

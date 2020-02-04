@@ -1,0 +1,69 @@
+
+recruit_zhaomuchenggong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: true
+  xy: 2, 23
+  size: 218, 331
+  orig: 218, 331
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 795, 193
+  size: 50, 291
+  orig: 50, 291
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 741, 174
+  size: 52, 310
+  orig: 55, 310
+  offset: 0, 0
+  index: -1
+g4
+  rotate: true
+  xy: 335, 27
+  size: 214, 327
+  orig: 214, 328
+  offset: 0, 0
+  index: -1
+g5
+  rotate: true
+  xy: 335, 27
+  size: 214, 327
+  orig: 214, 328
+  offset: 0, 0
+  index: -1
+g6
+  rotate: true
+  xy: 335, 27
+  size: 214, 327
+  orig: 214, 328
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 2, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+sg
+  rotate: false
+  xy: 847, 407
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 2, 243
+  size: 737, 241
+  orig: 737, 241
+  offset: 0, 0
+  index: -1

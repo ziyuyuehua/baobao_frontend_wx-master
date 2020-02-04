@@ -1,0 +1,13 @@
+
+vs_dianpuduijue2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vsguang
+  rotate: false
+  xy: 2, 2
+  size: 375, 108
+  orig: 375, 108
+  offset: 0, 0
+  index: -1

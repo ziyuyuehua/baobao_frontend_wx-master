@@ -1,0 +1,76 @@
+
+favor_shengji.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haogandu-bb-shengji_00002
+  rotate: false
+  xy: 429, 400
+  size: 79, 103
+  orig: 160, 202
+  offset: 39, 43
+  index: -1
+haogandu-bb-shengji_00003
+  rotate: false
+  xy: 172, 10
+  size: 104, 134
+  orig: 160, 202
+  offset: 29, 31
+  index: -1
+haogandu-bb-shengji_00004
+  rotate: false
+  xy: 278, 163
+  size: 122, 156
+  orig: 160, 202
+  offset: 20, 21
+  index: -1
+haogandu-bb-shengji_00005
+  rotate: true
+  xy: 1, 1
+  size: 134, 170
+  orig: 160, 202
+  offset: 14, 14
+  index: -1
+haogandu-bb-shengji_00006
+  rotate: false
+  xy: 290, 326
+  size: 138, 177
+  orig: 160, 202
+  offset: 12, 10
+  index: -1
+haogandu-bb-shengji_00007
+  rotate: false
+  xy: 1, 319
+  size: 143, 184
+  orig: 160, 202
+  offset: 10, 6
+  index: -1
+haogandu-bb-shengji_00008
+  rotate: false
+  xy: 145, 320
+  size: 144, 183
+  orig: 160, 202
+  offset: 9, 8
+  index: -1
+haogandu-bb-shengji_00009
+  rotate: false
+  xy: 1, 136
+  size: 142, 182
+  orig: 160, 202
+  offset: 10, 8
+  index: -1
+haogandu-bb-shengji_00010
+  rotate: false
+  xy: 144, 145
+  size: 133, 173
+  orig: 160, 202
+  offset: 15, 12
+  index: -1
+haogandu-bb-shengji_00011
+  rotate: false
+  xy: 429, 345
+  size: 45, 54
+  orig: 160, 202
+  offset: 58, 76
+  index: -1

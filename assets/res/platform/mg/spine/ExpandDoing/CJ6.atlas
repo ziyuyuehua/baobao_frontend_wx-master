@@ -1,0 +1,90 @@
+
+CJ6.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fadi5
+  rotate: false
+  xy: 2, 46
+  size: 117, 41
+  orig: 117, 41
+  offset: 0, 0
+  index: -1
+maozi5
+  rotate: false
+  xy: 216, 18
+  size: 130, 97
+  orig: 130, 97
+  offset: 0, 0
+  index: -1
+mubang
+  rotate: true
+  xy: 2, 89
+  size: 26, 212
+  orig: 26, 212
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 121, 57
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 3
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 463, 77
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 348, 10
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 166, 64
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 463, 38
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 89, 27
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 44, 22
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 44, 2
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1

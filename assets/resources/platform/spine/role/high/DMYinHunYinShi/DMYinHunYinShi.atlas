@@ -1,0 +1,195 @@
+
+DMYinHunYinShi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+chuandan1
+  rotate: true
+  xy: 328, 161
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+chuandan2
+  rotate: false
+  xy: 199, 123
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 118
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 107, 43
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 72, 2
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 406, 234
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 328, 203
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 72, 43
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 363, 231
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 238, 161
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 127, 155
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 363, 210
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 127, 92
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+yuo_shou_1
+  rotate: false
+  xy: 424, 216
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yuo_shou_2
+  rotate: false
+  xy: 462, 223
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yuo_shou_3
+  rotate: false
+  xy: 406, 213
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+yuo_tui_1
+  rotate: false
+  xy: 462, 240
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+yuo_tui_2
+  rotate: false
+  xy: 116, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+yuo_tui_3
+  rotate: false
+  xy: 127, 78
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+zuo_shou_1
+  rotate: false
+  xy: 446, 234
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+zuo_shou_2
+  rotate: false
+  xy: 170, 95
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+zuo_shou_3
+  rotate: false
+  xy: 98, 17
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+zuo_tui_1
+  rotate: false
+  xy: 442, 218
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+zuo_tui_2
+  rotate: false
+  xy: 98, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+zuo_tui_3
+  rotate: false
+  xy: 482, 242
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1

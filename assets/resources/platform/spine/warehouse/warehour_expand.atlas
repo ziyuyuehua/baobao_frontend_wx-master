@@ -1,0 +1,104 @@
+
+warehour_expand.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+px1
+  rotate: true
+  xy: 916, 75
+  size: 118, 32
+  orig: 118, 32
+  offset: 0, 0
+  index: -1
+px13
+  rotate: false
+  xy: 744, 87
+  size: 170, 106
+  orig: 170, 106
+  offset: 0, 0
+  index: -1
+px15
+  rotate: false
+  xy: 2, 76
+  size: 387, 178
+  orig: 387, 178
+  offset: 0, 0
+  index: -1
+px16
+  rotate: false
+  xy: 358, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+px18
+  rotate: false
+  xy: 456, 52
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+px19
+  rotate: false
+  xy: 425, 49
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+px2
+  rotate: false
+  xy: 744, 195
+  size: 221, 59
+  orig: 221, 59
+  offset: 0, 0
+  index: -1
+px20
+  rotate: false
+  xy: 392, 46
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+px3
+  rotate: false
+  xy: 2, 16
+  size: 295, 58
+  orig: 295, 58
+  offset: 0, 0
+  index: -1
+px4
+  rotate: false
+  xy: 391, 80
+  size: 351, 174
+  orig: 351, 174
+  offset: 0, 0
+  index: -1
+px5
+  rotate: true
+  xy: 744, 2
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+px6
+  rotate: false
+  xy: 827, 26
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+yuangong11
+  rotate: false
+  xy: 967, 215
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+yuangong2
+  rotate: false
+  xy: 299, 18
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1

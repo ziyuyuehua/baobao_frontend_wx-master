@@ -1,0 +1,104 @@
+
+incident_gongji.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add/weijishijian_gongji_add_00014
+  rotate: false
+  xy: 2, 750
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+add/weijishijian_gongji_add_00024
+  rotate: false
+  xy: 2, 563
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+add/weijishijian_gongji_add_00026
+  rotate: false
+  xy: 319, 750
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+add/weijishijian_gongji_add_00028
+  rotate: false
+  xy: 2, 376
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+add/weijishijian_gongji_add_00032
+  rotate: false
+  xy: 319, 563
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+add/weijishijian_gongji_add_00036
+  rotate: false
+  xy: 636, 750
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+add/weijishijian_gongji_add_00038
+  rotate: false
+  xy: 2, 189
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+alpha/weijishijian_gongji_alpha_00019
+  rotate: false
+  xy: 319, 376
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+alpha/weijishijian_gongji_alpha_00023
+  rotate: false
+  xy: 636, 563
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+alpha/weijishijian_gongji_alpha_00027
+  rotate: false
+  xy: 2, 2
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+alpha/weijishijian_gongji_alpha_00029
+  rotate: false
+  xy: 319, 189
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+alpha/weijishijian_gongji_alpha_00033
+  rotate: false
+  xy: 636, 376
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+alpha/weijishijian_gongji_alpha_00035
+  rotate: false
+  xy: 319, 2
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1
+alpha/weijishijian_gongji_alpha_00039
+  rotate: false
+  xy: 636, 189
+  size: 315, 185
+  orig: 315, 185
+  offset: 0, 0
+  index: -1

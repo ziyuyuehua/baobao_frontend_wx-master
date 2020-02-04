@@ -1,0 +1,27 @@
+
+map_waimaiche.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+waimai1
+  rotate: false
+  xy: 132, 160
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+waimai2
+  rotate: false
+  xy: 2, 2
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+yan_02
+  rotate: false
+  xy: 2, 125
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

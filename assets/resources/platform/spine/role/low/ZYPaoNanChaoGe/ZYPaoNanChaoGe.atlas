@@ -1,0 +1,146 @@
+
+ZYPaoNanChaoGe.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 380, 29
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 380, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 179, 4
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 179, 41
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: true
+  xy: 450, 64
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: false
+  xy: 445, 43
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: true
+  xy: 289, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: true
+  xy: 478, 66
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+hand_r2
+  rotate: false
+  xy: 424, 37
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+hand_r3
+  rotate: false
+  xy: 283, 21
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 283, 39
+  size: 87, 95
+  orig: 87, 95
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: true
+  xy: 465, 43
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: true
+  xy: 483, 44
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: false
+  xy: 303, 24
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: false
+  xy: 269, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: false
+  xy: 322, 23
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: true
+  xy: 269, 23
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 251, 4
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 450, 87
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1

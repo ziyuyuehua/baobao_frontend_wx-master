@@ -1,0 +1,34 @@
+
+main_cut_scene.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun1
+  rotate: false
+  xy: 2, 2
+  size: 216, 178
+  orig: 216, 178
+  offset: 0, 0
+  index: -1
+yun4
+  rotate: true
+  xy: 394, 362
+  size: 140, 116
+  orig: 140, 116
+  offset: 0, 0
+  index: -1
+yun5
+  rotate: true
+  xy: 394, 224
+  size: 136, 112
+  orig: 136, 112
+  offset: 0, 0
+  index: -1
+yun6
+  rotate: false
+  xy: 2, 182
+  size: 390, 320
+  orig: 390, 320
+  offset: 0, 0
+  index: -1

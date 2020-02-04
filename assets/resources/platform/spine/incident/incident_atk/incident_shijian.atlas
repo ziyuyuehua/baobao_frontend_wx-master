@@ -1,0 +1,111 @@
+
+incident_shijian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add/add_00014
+  rotate: false
+  xy: 2, 722
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+add/add_00018
+  rotate: false
+  xy: 2, 542
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+add/add_00024
+  rotate: false
+  xy: 267, 722
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+add/add_00028
+  rotate: false
+  xy: 2, 362
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+add/add_00030
+  rotate: false
+  xy: 267, 542
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+add/add_00034
+  rotate: false
+  xy: 532, 722
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+add/add_00038
+  rotate: false
+  xy: 2, 182
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+alpha/alpha_00016
+  rotate: false
+  xy: 267, 362
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+alpha/alpha_00020
+  rotate: false
+  xy: 532, 542
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+alpha/alpha_00024
+  rotate: true
+  xy: 797, 637
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+alpha/alpha_00028
+  rotate: false
+  xy: 2, 2
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+alpha/alpha_00032
+  rotate: false
+  xy: 267, 182
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+alpha/alpha_00038
+  rotate: false
+  xy: 532, 362
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+alpha/alpha_00042
+  rotate: true
+  xy: 797, 372
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1
+alpha/alpha_00044
+  rotate: false
+  xy: 267, 2
+  size: 263, 178
+  orig: 263, 178
+  offset: 0, 0
+  index: -1

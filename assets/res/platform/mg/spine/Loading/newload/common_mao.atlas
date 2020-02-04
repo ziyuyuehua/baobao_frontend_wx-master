@@ -1,0 +1,41 @@
+
+common_mao.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 306, 16
+  size: 150, 108
+  orig: 150, 108
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 2
+  size: 150, 122
+  orig: 150, 122
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 2
+  size: 150, 122
+  orig: 150, 122
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 154, 13
+  size: 150, 111
+  orig: 150, 111
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 458, 90
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

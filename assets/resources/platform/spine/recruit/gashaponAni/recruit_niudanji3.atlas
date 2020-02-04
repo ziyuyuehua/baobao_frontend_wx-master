@@ -1,0 +1,223 @@
+
+recruit_niudanji3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niudan/caise_add/caise_add_00003
+  rotate: false
+  xy: 2, 701
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_add/caise_add_00005
+  rotate: false
+  xy: 2, 468
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_add/caise_add_00007
+  rotate: false
+  xy: 235, 701
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_add/caise_add_00009
+  rotate: false
+  xy: 2, 235
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_add/caise_add_00011
+  rotate: false
+  xy: 235, 468
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_add/caise_add_00013
+  rotate: false
+  xy: 468, 701
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_alpha/caise_alpha_00003
+  rotate: false
+  xy: 2, 2
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_alpha/caise_alpha_00005
+  rotate: false
+  xy: 235, 235
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_alpha/caise_alpha_00007
+  rotate: false
+  xy: 468, 468
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_alpha/caise_alpha_00009
+  rotate: false
+  xy: 701, 701
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_alpha/caise_alpha_00011
+  rotate: false
+  xy: 235, 2
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/caise_alpha/caise_alpha_00013
+  rotate: false
+  xy: 468, 235
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+niudan/chengse_add/chengse_add_00003
+  rotate: false
+  xy: 701, 497
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/chengse_add/chengse_add_00005
+  rotate: false
+  xy: 934, 730
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/chengse_add/chengse_add_00007
+  rotate: false
+  xy: 468, 31
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/chengse_add/chengse_add_00009
+  rotate: false
+  xy: 701, 293
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/chengse_add/chengse_add_00011
+  rotate: false
+  xy: 1136, 730
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/chengse_alpha/chengse_alpha_00003
+  rotate: false
+  xy: 1338, 730
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/chengse_alpha/chengse_alpha_00005
+  rotate: false
+  xy: 1540, 730
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/chengse_alpha/chengse_alpha_00007
+  rotate: false
+  xy: 1742, 730
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/chengse_alpha/chengse_alpha_00009
+  rotate: false
+  xy: 701, 89
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/chengse_alpha/chengse_alpha_00011
+  rotate: false
+  xy: 903, 497
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/lanse_add/lanse_add_00003
+  rotate: false
+  xy: 903, 293
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/lanse_add/lanse_add_00005
+  rotate: false
+  xy: 903, 89
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/lanse_add/lanse_add_00007
+  rotate: false
+  xy: 1105, 526
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/lanse_add/lanse_add_00009
+  rotate: false
+  xy: 1105, 322
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/lanse_alpha/lanse_alpha_00003
+  rotate: false
+  xy: 1307, 526
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/lanse_alpha/lanse_alpha_00005
+  rotate: false
+  xy: 1105, 118
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/lanse_alpha/lanse_alpha_00007
+  rotate: false
+  xy: 1307, 322
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/lanse_alpha/lanse_alpha_00009
+  rotate: false
+  xy: 1509, 526
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1
+niudan/lanse_alpha/lanse_alpha_00010
+  rotate: false
+  xy: 1307, 118
+  size: 200, 202
+  orig: 200, 202
+  offset: 0, 0
+  index: -1

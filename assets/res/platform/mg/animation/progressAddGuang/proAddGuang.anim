@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "proAddGuang",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 16,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "93f5286d-e40e-4176-96d8-cf4bee166a62"
+            }
+          },
+          {
+            "frame": 0.0625,
+            "value": {
+              "__uuid__": "4d619148-36dd-4301-aa4f-4fa073492269"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "4a13c94b-cf97-4589-b681-e530a66f2d58"
+            }
+          },
+          {
+            "frame": 0.1875,
+            "value": {
+              "__uuid__": "994e6fc6-17ec-450e-b451-9fc4277b1dc9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

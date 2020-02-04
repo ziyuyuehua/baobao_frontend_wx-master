@@ -1,0 +1,27 @@
+
+map_dengjitisheng.png
+size: 89,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantou
+  rotate: false
+  xy: 2, 2
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 63, 30
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: false
+  xy: 2, 52
+  size: 85, 26
+  orig: 85, 26
+  offset: 0, 0
+  index: -1

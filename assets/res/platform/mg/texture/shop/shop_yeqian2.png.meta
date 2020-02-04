@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "09995867-d7ee-4cb8-94d0-5297c7f1a377",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "shop_yeqian2": {
+      "ver": "1.0.4",
+      "uuid": "eca0618b-572f-42b7-9f7f-121e0b8be2c3",
+      "rawTextureUuid": "09995867-d7ee-4cb8-94d0-5297c7f1a377",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 42,
+      "height": 53,
+      "rawWidth": 42,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 29,
+      "borderRight": 8,
+      "subMetas": {}
+    }
+  }
+}

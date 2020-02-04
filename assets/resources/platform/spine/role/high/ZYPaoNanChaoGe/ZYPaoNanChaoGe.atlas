@@ -1,0 +1,174 @@
+
+ZYPaoNanChaoGe.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 468, 221
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 231, 219
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 169
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 304, 192
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: true
+  xy: 72, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: false
+  xy: 134, 47
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: false
+  xy: 113, 53
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+hand_r2
+  rotate: false
+  xy: 327, 193
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+hand_r3
+  rotate: true
+  xy: 112, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 127, 80
+  size: 87, 95
+  orig: 87, 95
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 231, 180
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 303, 220
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: false
+  xy: 113, 35
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: false
+  xy: 134, 63
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: false
+  xy: 156, 65
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 93, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: false
+  xy: 175, 64
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: false
+  xy: 192, 66
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 413, 224
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 286, 182
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 72, 22
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 358, 222
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1

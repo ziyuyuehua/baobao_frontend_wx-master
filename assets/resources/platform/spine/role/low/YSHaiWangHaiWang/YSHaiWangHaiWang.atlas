@@ -1,0 +1,167 @@
+
+YSHaiWangHaiWang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 71
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 7
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+chazi
+  rotate: true
+  xy: 127, 55
+  size: 80, 94
+  orig: 80, 94
+  offset: 0, 0
+  index: -1
+diying
+  rotate: true
+  xy: 466, 176
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+fadi
+  rotate: false
+  xy: 127, 137
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 223, 50
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: true
+  xy: 249, 124
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: false
+  xy: 436, 126
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: true
+  xy: 311, 126
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+hand_r2
+  rotate: false
+  xy: 247, 96
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+hand_r3
+  rotate: true
+  xy: 339, 126
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 466, 149
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: false
+  xy: 414, 125
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: true
+  xy: 280, 126
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: false
+  xy: 457, 127
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: false
+  xy: 391, 125
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: true
+  xy: 363, 125
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: false
+  xy: 480, 128
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 223, 78
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 72, 27
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 363, 151
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 249, 149
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 72, 2
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1

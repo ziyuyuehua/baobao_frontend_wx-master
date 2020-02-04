@@ -1,0 +1,167 @@
+
+ZYTuCaoDanDan.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 371, 29
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: true
+  xy: 453, 56
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 420, 4
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 273, 10
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 179, 35
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 273, 38
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+waitaoyou
+  rotate: true
+  xy: 312, 23
+  size: 13, 53
+  orig: 13, 53
+  offset: 0, 0
+  index: -1
+waitaozuo
+  rotate: true
+  xy: 312, 2
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 435, 21
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 371, 99
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+you_shou_1
+  rotate: true
+  xy: 367, 4
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+you_shou_2
+  rotate: true
+  xy: 395, 5
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+you_shou_3
+  rotate: false
+  xy: 490, 78
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+you_tui_1
+  rotate: true
+  xy: 207, 12
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+you_tui_2
+  rotate: true
+  xy: 490, 56
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+you_tui_3
+  rotate: true
+  xy: 435, 77
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+zou_shou_1
+  rotate: false
+  xy: 490, 100
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+zou_shou_2
+  rotate: true
+  xy: 179, 12
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+zou_shou_3
+  rotate: true
+  xy: 490, 14
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+zou_tui_1
+  rotate: true
+  xy: 232, 13
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+zou_tui_2
+  rotate: false
+  xy: 490, 35
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zou_tui_3
+  rotate: true
+  xy: 435, 57
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

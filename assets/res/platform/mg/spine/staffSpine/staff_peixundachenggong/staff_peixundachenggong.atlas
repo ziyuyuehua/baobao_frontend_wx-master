@@ -1,0 +1,97 @@
+
+staff_peixundachenggong.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+px1
+  rotate: false
+  xy: 257, 81
+  size: 125, 28
+  orig: 125, 28
+  offset: 0, 0
+  index: -1
+px10
+  rotate: false
+  xy: 414, 37
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+px11
+  rotate: false
+  xy: 378, 30
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+px12
+  rotate: true
+  xy: 261, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+px13
+  rotate: true
+  xy: 384, 66
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+px14
+  rotate: false
+  xy: 310, 42
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+px2
+  rotate: false
+  xy: 2, 7
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+px3
+  rotate: false
+  xy: 2, 59
+  size: 253, 50
+  orig: 253, 50
+  offset: 0, 0
+  index: -1
+px5
+  rotate: true
+  xy: 351, 47
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+px6
+  rotate: true
+  xy: 194, 10
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+px7
+  rotate: false
+  xy: 451, 60
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+px8
+  rotate: false
+  xy: 261, 38
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+px9
+  rotate: false
+  xy: 351, 20
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

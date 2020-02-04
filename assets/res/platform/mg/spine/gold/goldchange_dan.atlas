@@ -1,0 +1,83 @@
+
+goldchange_dan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dan1
+  rotate: false
+  xy: 713, 410
+  size: 163, 95
+  orig: 163, 95
+  offset: 0, 0
+  index: -1
+dan10
+  rotate: true
+  xy: 365, 24
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+dan11
+  rotate: true
+  xy: 2, 2
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+dan2
+  rotate: false
+  xy: 2, 176
+  size: 270, 329
+  orig: 270, 329
+  offset: 0, 0
+  index: -1
+dan3
+  rotate: true
+  xy: 274, 130
+  size: 249, 298
+  orig: 249, 298
+  offset: 0, 0
+  index: -1
+dan4
+  rotate: false
+  xy: 2, 86
+  size: 246, 88
+  orig: 246, 88
+  offset: 0, 0
+  index: -1
+dan5
+  rotate: false
+  xy: 274, 381
+  size: 437, 124
+  orig: 437, 124
+  offset: 0, 0
+  index: -1
+dan6
+  rotate: false
+  xy: 99, 45
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+dan7
+  rotate: true
+  xy: 574, 126
+  size: 253, 203
+  orig: 253, 230
+  offset: 0, 0
+  index: -1
+dan8
+  rotate: false
+  xy: 878, 357
+  size: 140, 148
+  orig: 140, 148
+  offset: 0, 0
+  index: -1
+dan9
+  rotate: false
+  xy: 250, 26
+  size: 113, 102
+  orig: 113, 102
+  offset: 0, 0
+  index: -1

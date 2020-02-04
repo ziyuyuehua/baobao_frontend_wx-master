@@ -1,0 +1,90 @@
+
+common_gongxihuode.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua
+  rotate: false
+  xy: 2, 2
+  size: 439, 245
+  orig: 439, 245
+  offset: 0, 0
+  index: -1
+kjcg
+  rotate: false
+  xy: 443, 107
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+kjcg2
+  rotate: false
+  xy: 443, 155
+  size: 293, 92
+  orig: 293, 92
+  offset: 0, 0
+  index: -1
+kjcg3
+  rotate: false
+  xy: 738, 166
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+kjcg4
+  rotate: false
+  xy: 443, 24
+  size: 105, 81
+  orig: 105, 81
+  offset: 0, 0
+  index: -1
+qiqiu1
+  rotate: false
+  xy: 936, 162
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+qiqiu2
+  rotate: true
+  xy: 550, 29
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+qiqiu4
+  rotate: false
+  xy: 847, 163
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: true
+  xy: 626, 30
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+xingxing4
+  rotate: false
+  xy: 754, 114
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+xingxing5
+  rotate: true
+  xy: 704, 94
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+xingxing7
+  rotate: false
+  xy: 626, 85
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1

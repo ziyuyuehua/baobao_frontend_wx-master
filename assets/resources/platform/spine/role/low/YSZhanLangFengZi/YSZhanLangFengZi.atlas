@@ -1,0 +1,90 @@
+
+YSZhanLangFengZi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 382, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 452, 85
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 274, 40
+  size: 57, 5
+  orig: 57, 5
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 179, 28
+  size: 93, 98
+  orig: 93, 98
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 274, 47
+  size: 106, 79
+  orig: 106, 79
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 179, 2
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 274, 21
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 231, 3
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 452, 62
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 488, 83
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 382, 44
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1

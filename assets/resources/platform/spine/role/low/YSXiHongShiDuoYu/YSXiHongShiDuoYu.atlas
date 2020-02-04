@@ -1,0 +1,104 @@
+
+YSXiHongShiDuoYu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 77
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 197, 104
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 127, 78
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 245, 153
+  size: 55, 4
+  orig: 55, 4
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 142
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 2, 2
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 127, 53
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 334, 174
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 245, 159
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 334, 198
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 396, 215
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 80, 10
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 417, 238
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 80, 47
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1

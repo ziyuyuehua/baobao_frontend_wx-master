@@ -1,0 +1,153 @@
+
+YSMuGuangAiDeHua.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 386, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: true
+  xy: 456, 56
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 296, 15
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 223, 26
+  size: 49, 7
+  orig: 49, 7
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 386, 26
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 287, 37
+  size: 89, 97
+  orig: 89, 97
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 179, 35
+  size: 106, 91
+  orig: 106, 91
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 179, 12
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+youbi1
+  rotate: true
+  xy: 385, 5
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+youbi2
+  rotate: true
+  xy: 223, 2
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 493, 105
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 437, 23
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: false
+  xy: 249, 2
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: true
+  xy: 360, 14
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+zuobi1
+  rotate: true
+  xy: 332, 16
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+zuobi2
+  rotate: false
+  xy: 273, 2
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 437, 43
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 435, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: false
+  xy: 412, 4
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+zuotui2
+  rotate: false
+  xy: 458, 36
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1

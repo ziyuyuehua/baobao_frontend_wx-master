@@ -1,0 +1,139 @@
+
+ZYOuXiangRongHao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+beidai
+  rotate: false
+  xy: 127, 106
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 460, 159
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+clothes_l
+  rotate: true
+  xy: 72, 2
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+clothes_r
+  rotate: false
+  xy: 495, 209
+  size: 14, 45
+  orig: 14, 45
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 244, 160
+  size: 109, 94
+  orig: 109, 94
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 107, 29
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 170, 96
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 355, 157
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 460, 199
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+jita
+  rotate: false
+  xy: 127, 160
+  size: 115, 94
+  orig: 115, 94
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: true
+  xy: 72, 22
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 127, 83
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 132, 42
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 170, 125
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 491, 160
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 227, 128
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 284, 126
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1

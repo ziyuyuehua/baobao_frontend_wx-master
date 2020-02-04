@@ -1,0 +1,125 @@
+
+shop_chuangjianchenggong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kjcg
+  rotate: false
+  xy: 191, 109
+  size: 139, 40
+  orig: 139, 40
+  offset: 0, 0
+  index: -1
+kjcg2
+  rotate: true
+  xy: 2, 3
+  size: 251, 79
+  orig: 251, 79
+  offset: 0, 0
+  index: -1
+kjcg3
+  rotate: true
+  xy: 332, 66
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+kjcg4
+  rotate: false
+  xy: 235, 37
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+qiqiu1
+  rotate: true
+  xy: 191, 151
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+qiqiu2
+  rotate: false
+  xy: 83, 106
+  size: 106, 148
+  orig: 106, 148
+  offset: 0, 0
+  index: -1
+qiqiu3
+  rotate: true
+  xy: 83, 4
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+qiqiu4
+  rotate: false
+  xy: 290, 160
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+qiqiu5
+  rotate: false
+  xy: 362, 187
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+qiqiu6
+  rotate: false
+  xy: 394, 2
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 465, 154
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 235, 2
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: false
+  xy: 404, 77
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+xingxing4
+  rotate: false
+  xy: 404, 127
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+xingxing5
+  rotate: false
+  xy: 452, 84
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+xingxing6
+  rotate: true
+  xy: 428, 190
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+xingxing7
+  rotate: false
+  xy: 327, 6
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1

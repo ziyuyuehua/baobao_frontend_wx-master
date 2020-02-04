@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "incidentUp",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 16,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "221387c3-88ff-4fc3-aabd-9b85d4aa6e8f"
+            }
+          },
+          {
+            "frame": 0.0625,
+            "value": {
+              "__uuid__": "bd519af9-e6a7-443a-bb51-1dac51193767"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "7bf0f470-0ef1-47e9-91be-73fbe5e01ec5"
+            }
+          },
+          {
+            "frame": 0.1875,
+            "value": {
+              "__uuid__": "1692ced5-c947-48b1-b6ee-53c8e1189976"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "80980c22-1fa4-459f-85f6-b43177aafcac"
+            }
+          },
+          {
+            "frame": 0.3125,
+            "value": {
+              "__uuid__": "61bc9632-211d-4d5c-b3da-924fd20de4c4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

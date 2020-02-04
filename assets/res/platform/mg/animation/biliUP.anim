@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "biliUP",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3125,
+  "sample": 16,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "xzdg": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.0625,
+              "value": true
+            },
+            {
+              "frame": 0.3125,
+              "value": false
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.0625,
+              "value": 0
+            },
+            {
+              "frame": 0.3125,
+              "value": 180
+            }
+          ]
+        }
+      },
+      "heiban/biliLabel": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.0625,
+              "value": true
+            },
+            {
+              "frame": 0.3125,
+              "value": false
+            }
+          ]
+        }
+      },
+      "rydzx": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.0625,
+              "value": true
+            },
+            {
+              "frame": 0.3125,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

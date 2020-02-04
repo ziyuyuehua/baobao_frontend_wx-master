@@ -1,0 +1,160 @@
+
+DMHaiZeiShanZhi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 71
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 7
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 348, 211
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+fadi
+  rotate: false
+  xy: 127, 73
+  size: 107, 80
+  orig: 107, 80
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 390, 184
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: false
+  xy: 348, 153
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: false
+  xy: 129, 51
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: true
+  xy: 420, 206
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+hand_r2
+  rotate: false
+  xy: 488, 224
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+hand_r3
+  rotate: false
+  xy: 197, 54
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 420, 229
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: true
+  xy: 462, 225
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: false
+  xy: 153, 52
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: true
+  xy: 445, 208
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 72, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: true
+  xy: 110, 24
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: false
+  xy: 176, 52
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 110, 46
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 72, 25
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 245, 152
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 127, 155
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 348, 181
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1

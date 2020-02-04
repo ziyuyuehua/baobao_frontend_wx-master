@@ -1,0 +1,13 @@
+
+longOrder_juanmen.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juanmen
+  rotate: false
+  xy: 2, 2
+  size: 87, 112
+  orig: 87, 112
+  offset: 0, 0
+  index: -1

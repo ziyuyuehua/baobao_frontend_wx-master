@@ -1,0 +1,160 @@
+
+PTqierduanfa.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 66
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 2
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 440, 206
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+fadi
+  rotate: false
+  xy: 238, 138
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 127, 84
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 440, 177
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 349, 138
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 349, 145
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 127, 123
+  size: 109, 118
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 72, 39
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: false
+  xy: 440, 152
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 483, 186
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: false
+  xy: 202, 107
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+yt1
+  rotate: false
+  xy: 183, 102
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+yt2
+  rotate: false
+  xy: 115, 49
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+yt3
+  rotate: false
+  xy: 238, 123
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 161, 96
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 127, 66
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: false
+  xy: 72, 3
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: false
+  xy: 72, 17
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+zt2
+  rotate: false
+  xy: 461, 160
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+zt3
+  rotate: false
+  xy: 91, 23
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1

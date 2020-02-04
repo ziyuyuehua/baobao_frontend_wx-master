@@ -1,0 +1,132 @@
+
+ZYsabeining.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+dayihou
+  rotate: false
+  xy: 333, 205
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 103, 48
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 103, 22
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+shangyi
+  rotate: true
+  xy: 127, 79
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 432, 228
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 127, 149
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 226, 165
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 127, 115
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: true
+  xy: 148, 32
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 189, 130
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 333, 179
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+youdayi
+  rotate: false
+  xy: 72, 22
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 72, 2
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 375, 205
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+zuodayi
+  rotate: true
+  xy: 375, 230
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 378, 184
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1

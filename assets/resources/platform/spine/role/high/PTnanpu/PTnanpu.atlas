@@ -1,0 +1,181 @@
+
+PTnanpu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 382, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 179, 2
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 452, 100
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 339, 16
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 452, 68
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+qun
+  rotate: false
+  xy: 381, 15
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 251, 6
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 382, 39
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 287, 39
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 179, 39
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 297, 13
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 251, 13
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: false
+  xy: 473, 43
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 478, 23
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: false
+  xy: 494, 66
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+yt1
+  rotate: true
+  xy: 490, 81
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+yt2
+  rotate: false
+  xy: 494, 106
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+yt3
+  rotate: true
+  xy: 494, 47
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 427, 38
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 417, 17
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: false
+  xy: 417, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: false
+  xy: 452, 42
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+zt2
+  rotate: false
+  xy: 438, 17
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zt3
+  rotate: true
+  xy: 459, 20
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1

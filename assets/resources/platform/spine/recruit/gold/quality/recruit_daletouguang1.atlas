@@ -1,0 +1,76 @@
+
+recruit_daletouguang1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daletou_caise/daletou_caise_00000
+  rotate: false
+  xy: 2, 2
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+daletou_caise/daletou_caise_00002
+  rotate: false
+  xy: 193, 192
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+daletou_caise/daletou_caise_00004
+  rotate: false
+  xy: 193, 2
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+daletou_caise/daletou_caise_00005
+  rotate: false
+  xy: 384, 192
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+daletou_caise/daletou_caise_00006
+  rotate: false
+  xy: 384, 2
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+daletou_caise/daletou_caise_00008
+  rotate: false
+  xy: 575, 192
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+daletou_caise/daletou_caise_00010
+  rotate: false
+  xy: 575, 2
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+daletou_caise/daletou_caise_00012
+  rotate: false
+  xy: 766, 192
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+daletou_caise/daletou_caise_00014
+  rotate: false
+  xy: 766, 2
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+daletou_caise/daletou_caise_00016
+  rotate: false
+  xy: 2, 192
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1

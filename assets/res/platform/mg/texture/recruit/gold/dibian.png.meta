@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "cfa14643-439f-44db-ae93-b0604dab42ca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "dibian": {
+      "ver": "1.0.4",
+      "uuid": "6862f9b9-42cc-414a-a42e-b5da6599628f",
+      "rawTextureUuid": "cfa14643-439f-44db-ae93-b0604dab42ca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 59,
+      "height": 106,
+      "rawWidth": 59,
+      "rawHeight": 106,
+      "borderTop": 68,
+      "borderBottom": 23,
+      "borderLeft": 20,
+      "borderRight": 18,
+      "subMetas": {}
+    }
+  }
+}

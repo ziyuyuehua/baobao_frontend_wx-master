@@ -1,0 +1,139 @@
+
+position_zhiweijinsheng8.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 2, 151
+  size: 293, 44
+  orig: 295, 46
+  offset: 1, 1
+  index: -1
+diannao
+  rotate: false
+  xy: 423, 310
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+diaodeng
+  rotate: false
+  xy: 424, 244
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+dimain2
+  rotate: false
+  xy: 2, 197
+  size: 301, 89
+  orig: 301, 89
+  offset: 0, 0
+  index: -1
+dimain4
+  rotate: false
+  xy: 2, 288
+  size: 266, 211
+  orig: 266, 211
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 116
+  size: 244, 33
+  orig: 244, 33
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 197, 78
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 270, 306
+  size: 151, 85
+  orig: 151, 85
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 478, 414
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+huizhang
+  rotate: false
+  xy: 297, 128
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+huizhang2
+  rotate: false
+  xy: 2, 60
+  size: 193, 54
+  orig: 193, 54
+  offset: 0, 0
+  index: -1
+laba
+  rotate: false
+  xy: 2, 2
+  size: 167, 56
+  orig: 167, 56
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 305, 242
+  size: 62, 117
+  orig: 62, 117
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 171, 35
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+yizi
+  rotate: false
+  xy: 378, 128
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+zhiwei
+  rotate: true
+  xy: 440, 108
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+zhiwei2
+  rotate: false
+  xy: 305, 193
+  size: 175, 47
+  orig: 175, 47
+  offset: 0, 0
+  index: -1
+zhiwei3
+  rotate: false
+  xy: 270, 452
+  size: 233, 47
+  orig: 233, 47
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 270, 393
+  size: 206, 57
+  orig: 206, 57
+  offset: 0, 0
+  index: -1

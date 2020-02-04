@@ -1,0 +1,181 @@
+
+ZYChuangHua.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 330, 148
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 127, 89
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 330, 219
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 153
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 2, 10
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 237, 157
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 80, 19
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 330, 185
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: true
+  xy: 197, 93
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 462, 227
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 402, 222
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 237, 117
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 297, 131
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 297, 109
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 171, 71
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 123, 51
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 436, 201
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 127, 69
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: true
+  xy: 237, 93
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 412, 199
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 150, 70
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 80, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 263, 95
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 390, 193
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1

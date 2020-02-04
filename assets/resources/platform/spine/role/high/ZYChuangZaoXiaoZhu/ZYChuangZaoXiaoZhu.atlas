@@ -1,0 +1,132 @@
+
+ZYChuangZaoXiaoZhu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 234, 192
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+clothes_l
+  rotate: true
+  xy: 234, 170
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+clothes_r
+  rotate: true
+  xy: 420, 206
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 169
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 71, 32
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 42, 6
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 127, 77
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 2, 32
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 304, 223
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 362, 223
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 96, 39
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 478, 217
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 420, 223
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 420, 186
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 304, 191
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 362, 190
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+recruit_daletou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gun
+  rotate: true
+  xy: 454, 7
+  size: 192, 311
+  orig: 192, 311
+  offset: 0, 0
+  index: -1
+point
+  rotate: false
+  xy: 832, 558
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+qiu1
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu12
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu6
+  rotate: false
+  xy: 2, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu10
+  rotate: false
+  xy: 257, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu18
+  rotate: false
+  xy: 257, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu11
+  rotate: false
+  xy: 342, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: false
+  xy: 883, 752
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu13
+  rotate: false
+  xy: 883, 752
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu3
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu15
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu7
+  rotate: false
+  xy: 87, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu4
+  rotate: false
+  xy: 883, 667
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu14
+  rotate: false
+  xy: 883, 667
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu5
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu16
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu9
+  rotate: false
+  xy: 172, 2
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu8
+  rotate: false
+  xy: 883, 582
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+qiu17
+  rotate: false
+  xy: 883, 582
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+yuan1
+  rotate: false
+  xy: 883, 837
+  size: 130, 169
+  orig: 130, 169
+  offset: 0, 0
+  index: -1
+yuan2
+  rotate: false
+  xy: 2, 87
+  size: 450, 421
+  orig: 450, 421
+  offset: 0, 0
+  index: -1
+yuan3
+  rotate: false
+  xy: 454, 579
+  size: 427, 427
+  orig: 427, 427
+  offset: 0, 0
+  index: -1
+yuan4
+  rotate: false
+  xy: 454, 201
+  size: 376, 376
+  orig: 376, 376
+  offset: 0, 0
+  index: -1
+yuan5
+  rotate: false
+  xy: 2, 510
+  size: 450, 496
+  orig: 450, 496
+  offset: 0, 0
+  index: -1

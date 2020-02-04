@@ -1,0 +1,20 @@
+
+map_shouqian.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jbs
+  rotate: false
+  xy: 2, 2
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 49, 17
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

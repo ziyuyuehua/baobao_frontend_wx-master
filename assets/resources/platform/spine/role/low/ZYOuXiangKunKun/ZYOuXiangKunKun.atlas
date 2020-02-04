@@ -1,0 +1,83 @@
+
+ZYOuXiangKunKun.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 78
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 171, 7
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 2, 8
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 149
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 100, 28
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 127, 2
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 127, 50
+  size: 97, 104
+  orig: 97, 104
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 233, 109
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 233, 68
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 233, 31
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 66, 18
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1

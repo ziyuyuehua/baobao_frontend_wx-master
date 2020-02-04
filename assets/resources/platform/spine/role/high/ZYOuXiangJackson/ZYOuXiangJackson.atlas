@@ -1,0 +1,202 @@
+
+ZYOuXiangJackson.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 231, 192
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+bukuai
+  rotate: false
+  xy: 73, 2
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 27, 42
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 97, 13
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: false
+  xy: 73, 12
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: false
+  xy: 121, 39
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: false
+  xy: 281, 168
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+hand_r2
+  rotate: false
+  xy: 226, 81
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+hand_r3
+  rotate: false
+  xy: 191, 57
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+hezi1
+  rotate: false
+  xy: 301, 198
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 459, 227
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 409, 226
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 99, 42
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+lanzi1
+  rotate: false
+  xy: 361, 213
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: false
+  xy: 121, 56
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: false
+  xy: 253, 83
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: false
+  xy: 361, 194
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 144, 56
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: true
+  xy: 167, 57
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: false
+  xy: 383, 192
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+shangyi
+  rotate: true
+  xy: 27, 3
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 231, 163
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 127, 78
+  size: 89, 97
+  orig: 89, 97
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 127, 169
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 226, 108
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 226, 135
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 2, 2
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1

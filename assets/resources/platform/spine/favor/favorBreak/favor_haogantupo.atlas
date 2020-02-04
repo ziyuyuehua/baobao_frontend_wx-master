@@ -1,0 +1,146 @@
+
+favor_haogantupo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 641, 143
+  size: 153, 53
+  orig: 153, 53
+  offset: 0, 0
+  index: -1
+caidai
+  rotate: false
+  xy: 333, 112
+  size: 306, 141
+  orig: 306, 141
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 89
+  size: 329, 164
+  orig: 329, 164
+  offset: 0, 0
+  index: -1
+taoxin1
+  rotate: false
+  xy: 966, 205
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+taoxin2
+  rotate: false
+  xy: 888, 188
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+taoxin3
+  rotate: false
+  xy: 796, 128
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+taoxin4
+  rotate: false
+  xy: 641, 198
+  size: 154, 55
+  orig: 154, 55
+  offset: 0, 0
+  index: -1
+tupo
+  rotate: false
+  xy: 215, 64
+  size: 84, 23
+  orig: 84, 23
+  offset: 0, 0
+  index: -1
+tupo2
+  rotate: false
+  xy: 2, 2
+  size: 158, 42
+  orig: 158, 42
+  offset: 0, 0
+  index: -1
+tupo3
+  rotate: false
+  xy: 2, 46
+  size: 211, 41
+  orig: 211, 41
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 418, 91
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 333, 91
+  size: 19, 83
+  orig: 19, 83
+  offset: 0, 0
+  index: -1
+x3
+  rotate: true
+  xy: 641, 126
+  size: 15, 74
+  orig: 15, 74
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 797, 174
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+xin1
+  rotate: false
+  xy: 934, 161
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+xin2
+  rotate: false
+  xy: 892, 149
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+xin3
+  rotate: false
+  xy: 845, 127
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+xin4
+  rotate: false
+  xy: 162, 2
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: true
+  xy: 892, 127
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 301, 66
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

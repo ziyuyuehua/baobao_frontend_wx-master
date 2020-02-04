@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "breakProgressAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 16,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "aafe4d34-c456-461d-b790-7d2759d53600"
+            }
+          },
+          {
+            "frame": 0.0625,
+            "value": {
+              "__uuid__": "4edc9482-545c-4e53-9c31-27e54f58fb4c"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "b7a394e3-5b40-4ed6-998b-4abec7413360"
+            }
+          },
+          {
+            "frame": 0.1875,
+            "value": {
+              "__uuid__": "9df93072-b664-4b28-89db-e57f196f26d5"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "7b0d1d7a-6d4e-4529-82bc-8a3ded95abff"
+            }
+          },
+          {
+            "frame": 0.3125,
+            "value": {
+              "__uuid__": "c77cc8f1-f3f3-4a9e-ac61-f3162e90f85d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

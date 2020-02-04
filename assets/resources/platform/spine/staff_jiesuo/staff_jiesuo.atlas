@@ -1,0 +1,97 @@
+
+staff_jiesuo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add/yuangongjiesuoleixing_add_00001
+  rotate: false
+  xy: 2, 82
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+add/yuangongjiesuoleixing_add_00003
+  rotate: false
+  xy: 82, 162
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+add/yuangongjiesuoleixing_add_00005
+  rotate: false
+  xy: 2, 2
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+add/yuangongjiesuoleixing_add_00007
+  rotate: false
+  xy: 82, 82
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+add/yuangongjiesuoleixing_add_00009
+  rotate: false
+  xy: 162, 162
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+add/yuangongjiesuoleixing_add_00011
+  rotate: false
+  xy: 2, 162
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+alpha/yuangongjiesuoleixing_alpha_00001
+  rotate: false
+  xy: 82, 2
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+alpha/yuangongjiesuoleixing_alpha_00003
+  rotate: false
+  xy: 162, 82
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+alpha/yuangongjiesuoleixing_alpha_00005
+  rotate: false
+  xy: 242, 162
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+alpha/yuangongjiesuoleixing_alpha_00007
+  rotate: false
+  xy: 162, 2
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+alpha/yuangongjiesuoleixing_alpha_00009
+  rotate: false
+  xy: 242, 82
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+alpha/yuangongjiesuoleixing_alpha_00011
+  rotate: false
+  xy: 322, 162
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+alpha/yuangongjiesuoleixing_alpha_00012
+  rotate: false
+  xy: 242, 2
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1

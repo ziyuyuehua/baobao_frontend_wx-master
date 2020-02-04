@@ -1,0 +1,146 @@
+
+ZYOuXiangZhangPD.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 236, 192
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+ershi
+  rotate: false
+  xy: 21, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 421, 228
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 333, 227
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 55, 2
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 225, 106
+  size: 60, 5
+  orig: 60, 5
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 464, 228
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 77, 52
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+siahong
+  rotate: true
+  xy: 232, 110
+  size: 56, 4
+  orig: 56, 4
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 127, 74
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 127, 168
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+waitaozuo
+  rotate: false
+  xy: 2, 23
+  size: 17, 54
+  orig: 17, 54
+  offset: 0, 0
+  index: -1
+weitaoyou
+  rotate: true
+  xy: 236, 179
+  size: 11, 54
+  orig: 11, 54
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 50, 35
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 376, 229
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 21, 35
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 77, 32
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 306, 209
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 333, 205
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1

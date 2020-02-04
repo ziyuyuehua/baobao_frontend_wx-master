@@ -1,0 +1,111 @@
+
+shijianwancheng.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+en2
+  rotate: false
+  xy: 360, 226
+  size: 101, 28
+  orig: 101, 28
+  offset: 0, 0
+  index: -1
+en3
+  rotate: false
+  xy: 2, 2
+  size: 194, 50
+  orig: 194, 50
+  offset: 0, 0
+  index: -1
+en4
+  rotate: false
+  xy: 305, 156
+  size: 53, 98
+  orig: 53, 98
+  offset: 0, 0
+  index: -1
+en5
+  rotate: true
+  xy: 198, 3
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+en6
+  rotate: true
+  xy: 305, 105
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+en7
+  rotate: false
+  xy: 2, 54
+  size: 253, 49
+  orig: 253, 49
+  offset: 0, 0
+  index: -1
+en8
+  rotate: false
+  xy: 2, 105
+  size: 301, 149
+  orig: 301, 149
+  offset: 0, 0
+  index: -1
+naizui
+  rotate: false
+  xy: 257, 62
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+shuazi
+  rotate: false
+  xy: 360, 169
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 360, 129
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 423, 195
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: false
+  xy: 360, 106
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+xingxing4
+  rotate: false
+  xy: 315, 78
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+xingxing5
+  rotate: false
+  xy: 463, 226
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+xingxing6
+  rotate: false
+  xy: 423, 169
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

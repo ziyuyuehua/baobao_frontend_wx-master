@@ -1,0 +1,118 @@
+
+ZYKuaiLeJiaGe.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 72, 2
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: true
+  xy: 101, 2
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 166, 97
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 231, 156
+  size: 57, 6
+  orig: 57, 6
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 127, 95
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 166, 117
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 127, 145
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 231, 164
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 341, 225
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 72, 50
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 391, 233
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 440, 233
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 341, 178
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 369, 186
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1

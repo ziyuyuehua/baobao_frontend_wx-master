@@ -1,0 +1,90 @@
+
+vs_dianpuduijue1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ciguang1
+  rotate: false
+  xy: 1, 46
+  size: 110, 179
+  orig: 110, 179
+  offset: 0, 0
+  index: -1
+ciguang2
+  rotate: false
+  xy: 1, 226
+  size: 118, 278
+  orig: 118, 278
+  offset: 0, 0
+  index: -1
+guang_02/pengguang_00020
+  rotate: false
+  xy: 120, 350
+  size: 177, 154
+  orig: 256, 187
+  offset: 34, 10
+  index: -1
+guang_02/pengguang_00022
+  rotate: false
+  xy: 298, 366
+  size: 189, 138
+  orig: 256, 187
+  offset: 32, 22
+  index: -1
+guang_02/pengguang_00024
+  rotate: false
+  xy: 112, 92
+  size: 120, 129
+  orig: 256, 187
+  offset: 62, 16
+  index: -1
+guang_02/pengguang_00026
+  rotate: true
+  xy: 120, 222
+  size: 127, 133
+  orig: 256, 187
+  offset: 55, 13
+  index: -1
+guang_02/pengguang_00028
+  rotate: true
+  xy: 112, 1
+  size: 90, 92
+  orig: 256, 187
+  offset: 86, 45
+  index: -1
+guang_02/pengguang_00030
+  rotate: false
+  xy: 205, 2
+  size: 88, 89
+  orig: 256, 187
+  offset: 86, 47
+  index: -1
+guang_02/pengguang_00032
+  rotate: false
+  xy: 1, 14
+  size: 88, 31
+  orig: 256, 187
+  offset: 86, 82
+  index: -1
+shangdian1
+  rotate: false
+  xy: 367, 271
+  size: 115, 94
+  orig: 115, 94
+  offset: 0, 0
+  index: -1
+shangdian2
+  rotate: false
+  xy: 367, 176
+  size: 115, 94
+  orig: 115, 94
+  offset: 0, 0
+  index: -1
+vs
+  rotate: true
+  xy: 254, 223
+  size: 126, 112
+  orig: 126, 112
+  offset: 0, 0
+  index: -1

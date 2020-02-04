@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "signinBtn",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4375,
+  "sample": 16,
+  "speed": 0.4,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c6191229-cdbe-4bc9-8ffb-aadf2c5d1725"
+            }
+          },
+          {
+            "frame": 0.0625,
+            "value": {
+              "__uuid__": "e74b40a9-2ef8-414a-b314-3b8d0c282d9f"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "e3c2946d-90c6-4483-ad0b-21c719aaa63c"
+            }
+          },
+          {
+            "frame": 0.1875,
+            "value": {
+              "__uuid__": "7a454246-2546-44ac-99df-e07bdda1a854"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a5e044ad-5881-42fd-a182-5673fc8b949c"
+            }
+          },
+          {
+            "frame": 0.3125,
+            "value": {
+              "__uuid__": "9d21c618-d0cb-4e3b-b1be-055ac32da52a"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "d8bd6ba5-ee36-4774-997f-7aac82303c6d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

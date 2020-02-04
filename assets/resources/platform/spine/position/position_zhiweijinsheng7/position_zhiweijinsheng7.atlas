@@ -1,0 +1,160 @@
+
+position_zhiweijinsheng7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 216, 370
+  size: 267, 40
+  orig: 269, 42
+  offset: 1, 1
+  index: -1
+diannao1
+  rotate: true
+  xy: 186, 102
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+diannao2
+  rotate: false
+  xy: 457, 155
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+diaodeng
+  rotate: true
+  xy: 154, 2
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+dimain2
+  rotate: false
+  xy: 216, 412
+  size: 274, 81
+  orig: 274, 81
+  offset: 0, 0
+  index: -1
+dimain3
+  rotate: false
+  xy: 2, 123
+  size: 182, 188
+  orig: 182, 188
+  offset: 0, 0
+  index: -1
+dimain4
+  rotate: false
+  xy: 2, 313
+  size: 212, 180
+  orig: 212, 180
+  offset: 0, 0
+  index: -1
+dimian
+  rotate: false
+  xy: 347, 140
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 216, 293
+  size: 222, 30
+  orig: 222, 30
+  offset: 0, 0
+  index: -1
+huizhang
+  rotate: false
+  xy: 440, 311
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+huizhang2
+  rotate: false
+  xy: 2, 72
+  size: 176, 49
+  orig: 176, 49
+  offset: 0, 0
+  index: -1
+laba
+  rotate: false
+  xy: 186, 186
+  size: 152, 51
+  orig: 152, 51
+  offset: 0, 0
+  index: -1
+paizi
+  rotate: false
+  xy: 458, 247
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 233, 117
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: true
+  xy: 458, 202
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+taizi
+  rotate: false
+  xy: 186, 239
+  size: 162, 52
+  orig: 162, 52
+  offset: 0, 0
+  index: -1
+taizi2
+  rotate: false
+  xy: 2, 4
+  size: 150, 66
+  orig: 150, 66
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 259, 118
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+zhiwei
+  rotate: true
+  xy: 433, 140
+  size: 75, 22
+  orig: 75, 22
+  offset: 0, 0
+  index: -1
+zhiwei2
+  rotate: false
+  xy: 186, 141
+  size: 159, 43
+  orig: 159, 43
+  offset: 0, 0
+  index: -1
+zhiwei3
+  rotate: false
+  xy: 216, 325
+  size: 212, 43
+  orig: 212, 43
+  offset: 0, 0
+  index: -1
+zhognjing
+  rotate: false
+  xy: 350, 217
+  size: 106, 74
+  orig: 106, 74
+  offset: 0, 0
+  index: -1

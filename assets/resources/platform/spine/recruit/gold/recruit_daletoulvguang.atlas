@@ -1,0 +1,76 @@
+
+recruit_daletoulvguang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daletou_gundan_lvguang/daletou_gundan_lvguang_00004
+  rotate: false
+  xy: 2, 201
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+daletou_gundan_lvguang/daletou_gundan_lvguang_00005
+  rotate: false
+  xy: 2, 2
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+daletou_gundan_lvguang/daletou_gundan_lvguang_00006
+  rotate: false
+  xy: 201, 201
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+daletou_gundan_lvguang/daletou_gundan_lvguang_00007
+  rotate: false
+  xy: 201, 2
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+daletou_gundan_lvguang/daletou_gundan_lvguang_00008
+  rotate: false
+  xy: 400, 201
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+daletou_gundan_lvguang/daletou_gundan_lvguang_00009
+  rotate: false
+  xy: 400, 2
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+daletou_gundan_lvguang/daletou_gundan_lvguang_00010
+  rotate: false
+  xy: 599, 201
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+daletou_gundan_lvguang/daletou_gundan_lvguang_00011
+  rotate: false
+  xy: 599, 2
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+daletou_gundan_lvguang/daletou_gundan_lvguang_00012
+  rotate: false
+  xy: 798, 201
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+daletou_gundan_lvguang/daletou_gundan_lvguang_00013
+  rotate: false
+  xy: 798, 2
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1

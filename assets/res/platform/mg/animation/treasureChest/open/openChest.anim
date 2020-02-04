@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "openChest",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3125,
+  "sample": 16,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "77aaa610-c68d-42bb-a919-16ab179de8a9"
+            }
+          },
+          {
+            "frame": 0.0625,
+            "value": {
+              "__uuid__": "90710940-6980-4ba7-91c1-faaa1459b789"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "afdcad56-f6c5-4877-a767-dcae0b12d40a"
+            }
+          },
+          {
+            "frame": 0.1875,
+            "value": {
+              "__uuid__": "1d9f48e4-cdbc-42c1-9b28-3d7eb4e5e344"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a5e5dcd1-f479-44dd-9fec-a9c608520804"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

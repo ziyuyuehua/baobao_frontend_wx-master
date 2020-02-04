@@ -1,0 +1,146 @@
+
+DMHuoYingKaKaXi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 379, 31
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 379, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: true
+  xy: 449, 56
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 179, 16
+  size: 109, 110
+  orig: 109, 110
+  offset: 0, 0
+  index: -1
+hand_l 1
+  rotate: true
+  xy: 414, 28
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+hand_l 2
+  rotate: false
+  xy: 422, 10
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+hand_l 3
+  rotate: true
+  xy: 379, 14
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+hand_r 1
+  rotate: true
+  xy: 290, 16
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+hand_r 2
+  rotate: true
+  xy: 449, 37
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+hand_r 3
+  rotate: true
+  xy: 357, 15
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 290, 34
+  size: 87, 92
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: false
+  xy: 486, 55
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: true
+  xy: 313, 13
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: false
+  xy: 336, 13
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 486, 106
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: false
+  xy: 486, 79
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: true
+  xy: 402, 10
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 414, 44
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 179, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+goldchange_shuzi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+X2
+  rotate: false
+  xy: 2, 60
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+X5
+  rotate: false
+  xy: 2, 7
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+bu10
+  rotate: false
+  xy: 2, 114
+  size: 113, 52
+  orig: 113, 52
+  offset: 0, 0
+  index: -1
+dan12
+  rotate: false
+  xy: 2, 168
+  size: 158, 42
+  orig: 158, 42
+  offset: 0, 0
+  index: -1
+dan13
+  rotate: false
+  xy: 117, 110
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+dan14
+  rotate: false
+  xy: 82, 60
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+dan15
+  rotate: false
+  xy: 137, 12
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+dan16
+  rotate: false
+  xy: 83, 2
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+dan17
+  rotate: false
+  xy: 129, 60
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+dan18
+  rotate: false
+  xy: 2, 212
+  size: 211, 41
+  orig: 211, 41
+  offset: 0, 0
+  index: -1

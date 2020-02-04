@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": [ "dom", "es2015", "es2015.promise" ],
+    "target": "es2015",
+    "allowJs": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "importHelpers": true,
+    "baseUrl": "./assets/Script",
+    "paths": {
+        "tslib": ["tslib.d.ts"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "library",
+    "local",
+    "temp",
+    "build",
+    "settings"
+  ]
+}

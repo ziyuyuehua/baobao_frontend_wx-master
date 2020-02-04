@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "204f4963-3fbe-47f9-b5cb-0b7bea883734",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "tongyong_saoguang_00003": {
+      "ver": "1.0.4",
+      "uuid": "918a7547-cec1-4fa0-b786-e37f5cc272a7",
+      "rawTextureUuid": "204f4963-3fbe-47f9-b5cb-0b7bea883734",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 4.5,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 86,
+      "height": 79,
+      "rawWidth": 96,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

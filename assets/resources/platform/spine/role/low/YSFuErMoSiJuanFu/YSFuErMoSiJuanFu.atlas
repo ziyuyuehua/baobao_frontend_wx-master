@@ -1,0 +1,188 @@
+
+YSFuErMoSiJuanFu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 130
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: true
+  xy: 99, 2
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 2, 7
+  size: 51, 6
+  orig: 51, 6
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 72, 38
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 127, 102
+  size: 52, 5
+  orig: 52, 5
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 246, 164
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 127, 167
+  size: 117, 87
+  orig: 117, 87
+  offset: 0, 0
+  index: -1
+weijing
+  rotate: true
+  xy: 199, 142
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 361, 231
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 361, 207
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+you_dayi
+  rotate: false
+  xy: 342, 188
+  size: 17, 66
+  orig: 17, 66
+  offset: 0, 0
+  index: -1
+you_shou_1
+  rotate: true
+  xy: 127, 80
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+you_shou_2
+  rotate: true
+  xy: 72, 16
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+you_shou_3
+  rotate: false
+  xy: 362, 169
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+you_tui_1
+  rotate: true
+  xy: 153, 81
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+you_tui_2
+  rotate: true
+  xy: 475, 235
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+you_tui_3
+  rotate: true
+  xy: 342, 166
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+zou_shou_1
+  rotate: true
+  xy: 401, 233
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+zou_shou_2
+  rotate: false
+  xy: 99, 47
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+zou_shou_3
+  rotate: false
+  xy: 452, 235
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+zou_tui_1
+  rotate: false
+  xy: 99, 22
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+zou_tui_2
+  rotate: true
+  xy: 427, 234
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+zou_tui_3
+  rotate: false
+  xy: 361, 189
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+zuo_dayi
+  rotate: true
+  xy: 127, 109
+  size: 19, 64
+  orig: 19, 64
+  offset: 0, 0
+  index: -1

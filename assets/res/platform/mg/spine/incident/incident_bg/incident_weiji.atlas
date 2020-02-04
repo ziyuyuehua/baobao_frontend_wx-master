@@ -1,0 +1,76 @@
+
+incident_weiji.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiao1
+  rotate: false
+  xy: 276, 2
+  size: 183, 33
+  orig: 183, 33
+  offset: 0, 0
+  index: -1
+tiao10
+  rotate: false
+  xy: 2, 37
+  size: 450, 217
+  orig: 450, 217
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: false
+  xy: 454, 84
+  size: 196, 27
+  orig: 196, 27
+  offset: 0, 0
+  index: -1
+tiao3
+  rotate: false
+  xy: 2, 2
+  size: 272, 33
+  orig: 272, 33
+  offset: 0, 0
+  index: -1
+tiao4
+  rotate: false
+  xy: 770, 184
+  size: 96, 19
+  orig: 96, 19
+  offset: 0, 0
+  index: -1
+tiao5
+  rotate: false
+  xy: 454, 147
+  size: 247, 26
+  orig: 247, 26
+  offset: 0, 0
+  index: -1
+tiao6
+  rotate: false
+  xy: 454, 175
+  size: 314, 28
+  orig: 314, 28
+  offset: 0, 0
+  index: -1
+tiao7
+  rotate: false
+  xy: 454, 205
+  size: 413, 49
+  orig: 413, 49
+  offset: 0, 0
+  index: -1
+tiao8
+  rotate: false
+  xy: 454, 113
+  size: 209, 32
+  orig: 209, 32
+  offset: 0, 0
+  index: -1
+tiao9
+  rotate: false
+  xy: 869, 231
+  size: 127, 23
+  orig: 127, 23
+  offset: 0, 0
+  index: -1

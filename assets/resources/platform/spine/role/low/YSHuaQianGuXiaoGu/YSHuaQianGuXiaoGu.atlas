@@ -1,0 +1,174 @@
+
+YSHuaQianGuXiaoGu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 76
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 185, 66
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: true
+  xy: 475, 181
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hezi1
+  rotate: false
+  xy: 255, 98
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 2, 54
+  size: 20, 128
+  orig: 20, 128
+  offset: 0, 0
+  index: -1
+lanzi1
+  rotate: false
+  xy: 61, 11
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 127, 78
+  size: 53, 4
+  orig: 53, 4
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 131, 20
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 255, 70
+  size: 58, 4
+  orig: 58, 4
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 369, 157
+  size: 94, 104
+  orig: 94, 104
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 248, 156
+  size: 119, 95
+  orig: 119, 95
+  offset: 0, 0
+  index: -1
+toufa_hou
+  rotate: false
+  xy: 127, 130
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: -1
+waitao_qian
+  rotate: false
+  xy: 475, 113
+  size: 35, 66
+  orig: 35, 66
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 374, 129
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 374, 99
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+you_qunzi
+  rotate: true
+  xy: 127, 84
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+you_shou_ 2
+  rotate: false
+  xy: 109, 13
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+you_shou_ 3
+  rotate: true
+  xy: 417, 130
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+you_shou_1
+  rotate: false
+  xy: 405, 102
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+zhong_qunzi
+  rotate: true
+  xy: 2, 2
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+zuo_qunzi
+  rotate: true
+  xy: 255, 76
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+zuo_shou_1
+  rotate: false
+  xy: 315, 106
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+zuo_shou_2
+  rotate: false
+  xy: 347, 108
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+zuo_shou_3
+  rotate: true
+  xy: 132, 53
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,106 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      true,
+      null,
+      null,
+      null,
+      null,
+      true
+    ],
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 1334,
+  "design-resolution-width": 750,
+  "excluded-modules": [
+    "DragonBones",
+    "MotionStreak",
+    "VideoPlayer",
+    "WebView",
+    "StudioComponent",
+    "Native Socket",
+    "Geom Utils",
+    "3D",
+    "3D Primitive"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": true,
+  "group-list": [
+    "default",
+    "v1.2",
+    "uiCamera",
+    "goods",
+    "favorability",
+    "ball",
+    "highLayer",
+    "guideLayer"
+  ],
+  "last-module-event-record-time": 1578539516395,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "b66a62f1-6503-4ee5-88d3-ed3dbaf713c1",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false
+}

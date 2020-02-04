@@ -1,0 +1,62 @@
+
+favor_xinxin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haogan_baoguang_00004
+  rotate: false
+  xy: 2, 155
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+haogan_baoguang_00005
+  rotate: false
+  xy: 157, 308
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+haogan_baoguang_00006
+  rotate: false
+  xy: 2, 2
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+haogan_baoguang_00007
+  rotate: false
+  xy: 157, 155
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+haogan_baoguang_00008
+  rotate: false
+  xy: 312, 308
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+haogan_baoguang_00009
+  rotate: false
+  xy: 157, 2
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+haogan_baoguang_00010
+  rotate: false
+  xy: 312, 155
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+haogan_baoguang_00011
+  rotate: false
+  xy: 2, 308
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1

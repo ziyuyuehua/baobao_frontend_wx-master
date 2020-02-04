@@ -1,0 +1,188 @@
+
+DMHaiZeiLuFei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 73
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 199, 106
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 9
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 2, 2
+  size: 54, 5
+  orig: 54, 5
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 104
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 240, 170
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 127, 141
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 337, 167
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 127, 73
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 240, 142
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 428, 218
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 72, 27
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 72, 41
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 428, 192
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: true
+  xy: 310, 153
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 428, 167
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: true
+  xy: 494, 233
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+yt1
+  rotate: false
+  xy: 286, 149
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+yt2
+  rotate: false
+  xy: 140, 52
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+yt3
+  rotate: false
+  xy: 337, 150
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 474, 223
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 118, 48
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: false
+  xy: 356, 151
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: false
+  xy: 173, 81
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+zt2
+  rotate: false
+  xy: 447, 171
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zt3
+  rotate: false
+  xy: 72, 10
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1

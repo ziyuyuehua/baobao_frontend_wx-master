@@ -1,0 +1,104 @@
+
+ZYKuaiLeHeLaoShi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 2
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 446, 57
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+bujiao
+  rotate: false
+  xy: 179, 4
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 410, 10
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 370, 46
+  size: 52, 12
+  orig: 52, 12
+  offset: 0, 0
+  index: -1
+shangyi
+  rotate: true
+  xy: 278, 7
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 276, 42
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 179, 39
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+toufahou
+  rotate: false
+  xy: 370, 60
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 179, 16
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 318, 16
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 360, 3
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 233, 12
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 370, 24
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1

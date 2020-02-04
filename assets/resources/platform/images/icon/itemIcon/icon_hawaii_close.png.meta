@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "e5f65d07-fdbe-4044-bf21-4584f7b5c557",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_hawaii_close": {
+      "ver": "1.0.4",
+      "uuid": "6e855f26-f0fa-4794-9725-115710be61f5",
+      "rawTextureUuid": "e5f65d07-fdbe-4044-bf21-4584f7b5c557",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": -5,
+      "trimX": 3,
+      "trimY": 21,
+      "width": 109,
+      "height": 94,
+      "rawWidth": 126,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

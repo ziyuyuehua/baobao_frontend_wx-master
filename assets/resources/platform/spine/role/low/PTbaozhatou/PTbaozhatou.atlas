@@ -1,0 +1,153 @@
+
+PTbaozhatou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 166, 131
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 166, 57
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 96, 52
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 166, 94
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 343, 129
+  size: 161, 125
+  orig: 161, 125
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 2, 116
+  size: 162, 138
+  orig: 162, 138
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 16
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 238, 109
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 96, 27
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: false
+  xy: 138, 27
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 341, 108
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: true
+  xy: 323, 110
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+yt1
+  rotate: false
+  xy: 276, 108
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+yt2
+  rotate: false
+  xy: 300, 108
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+yt3
+  rotate: false
+  xy: 426, 112
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 210, 67
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 123, 2
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: false
+  xy: 387, 113
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: true
+  xy: 96, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+zt2
+  rotate: true
+  xy: 364, 108
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+zt3
+  rotate: false
+  xy: 408, 112
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+ZYHaoShengYinZhouDong.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 375, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+bujiao
+  rotate: true
+  xy: 495, 110
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 445, 62
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 224, 2
+  size: 58, 7
+  orig: 58, 7
+  offset: 0, 0
+  index: -1
+shangyi
+  rotate: true
+  xy: 179, 3
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 281, 37
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 179, 37
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 375, 42
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 224, 11
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 375, 20
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+youwaitao
+  rotate: true
+  xy: 269, 18
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: false
+  xy: 445, 83
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 472, 84
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+zuowaitao
+  rotate: true
+  xy: 316, 17
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1

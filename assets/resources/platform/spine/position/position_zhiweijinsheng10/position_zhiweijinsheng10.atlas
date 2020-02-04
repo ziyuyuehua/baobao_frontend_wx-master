@@ -1,0 +1,146 @@
+
+position_zhiweijinsheng10.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beizi
+  rotate: false
+  xy: 2, 2
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 2, 161
+  size: 293, 44
+  orig: 295, 46
+  offset: 1, 1
+  index: -1
+diannao
+  rotate: false
+  xy: 386, 83
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+diaodeng
+  rotate: true
+  xy: 390, 139
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+dimain2
+  rotate: false
+  xy: 2, 207
+  size: 301, 89
+  orig: 301, 89
+  offset: 0, 0
+  index: -1
+dimain4
+  rotate: false
+  xy: 2, 298
+  size: 266, 211
+  orig: 266, 211
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 77
+  size: 244, 33
+  orig: 244, 33
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 305, 222
+  size: 119, 61
+  orig: 119, 61
+  offset: 0, 0
+  index: -1
+huizhang
+  rotate: false
+  xy: 171, 8
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+huizhang2
+  rotate: false
+  xy: 270, 388
+  size: 193, 54
+  orig: 193, 54
+  offset: 0, 0
+  index: -1
+laba
+  rotate: false
+  xy: 2, 19
+  size: 167, 56
+  orig: 167, 56
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 305, 285
+  size: 52, 131
+  orig: 52, 131
+  offset: 0, 0
+  index: -1
+taizi
+  rotate: true
+  xy: 465, 382
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 270, 314
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 237, 119
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+yizi
+  rotate: true
+  xy: 305, 144
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+zhiwei
+  rotate: false
+  xy: 301, 118
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+zhiwei2
+  rotate: false
+  xy: 270, 339
+  size: 175, 47
+  orig: 175, 47
+  offset: 0, 0
+  index: -1
+zhiwei3
+  rotate: false
+  xy: 2, 112
+  size: 233, 47
+  orig: 233, 47
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 270, 444
+  size: 230, 65
+  orig: 230, 65
+  offset: 0, 0
+  index: -1

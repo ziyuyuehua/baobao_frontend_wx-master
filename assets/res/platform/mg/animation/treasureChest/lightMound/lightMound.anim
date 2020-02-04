@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lightMound",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3125,
+  "sample": 16,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2c4b5353-d4bb-4b4c-8449-c9c467702e67"
+            }
+          },
+          {
+            "frame": 0.0625,
+            "value": {
+              "__uuid__": "ae65010b-35da-4203-812f-ff4e7f42b64a"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "9c0db5dc-95b1-4151-9be8-2de52a8358c5"
+            }
+          },
+          {
+            "frame": 0.1875,
+            "value": {
+              "__uuid__": "ec8591eb-5a3e-4b98-8e31-e67674224456"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "99dc3db9-37c5-4963-9c72-3f2992f07f7e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    }
+  ]
+}

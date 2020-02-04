@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "df1e2bcd-aa14-4d15-9aef-638f8fcba939",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_wulianniudanbi": {
+      "ver": "1.0.4",
+      "uuid": "2208f11e-87a9-4230-8883-1e75d36d33d7",
+      "rawTextureUuid": "df1e2bcd-aa14-4d15-9aef-638f8fcba939",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1,
+      "trimX": 7,
+      "trimY": 12,
+      "width": 114,
+      "height": 104,
+      "rawWidth": 126,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

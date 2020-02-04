@@ -1,0 +1,104 @@
+
+staff_peixuntechenggong.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+px1
+  rotate: false
+  xy: 2, 9
+  size: 125, 28
+  orig: 125, 28
+  offset: 0, 0
+  index: -1
+px10
+  rotate: false
+  xy: 129, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+px11
+  rotate: false
+  xy: 379, 36
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+px12
+  rotate: false
+  xy: 462, 81
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+px13
+  rotate: false
+  xy: 270, 40
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+px14
+  rotate: false
+  xy: 331, 29
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+px15
+  rotate: false
+  xy: 2, 39
+  size: 266, 36
+  orig: 266, 36
+  offset: 0, 0
+  index: -1
+px16
+  rotate: false
+  xy: 419, 46
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+px17
+  rotate: false
+  xy: 200, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+px18
+  rotate: false
+  xy: 448, 52
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+px19
+  rotate: false
+  xy: 227, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+px2
+  rotate: false
+  xy: 270, 76
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+px3
+  rotate: false
+  xy: 2, 77
+  size: 253, 49
+  orig: 253, 49
+  offset: 0, 0
+  index: -1
+px5
+  rotate: false
+  xy: 166, 2
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1

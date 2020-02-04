@@ -1,0 +1,146 @@
+
+ZYWangPaiJiaLing.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 72, 30
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 105
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 142
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 249, 144
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 199, 122
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 350, 221
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: true
+  xy: 127, 79
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 72, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: false
+  xy: 156, 85
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+yt1
+  rotate: false
+  xy: 119, 53
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+yt2
+  rotate: false
+  xy: 412, 225
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+yt3
+  rotate: false
+  xy: 439, 234
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 350, 189
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: true
+  xy: 101, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: true
+  xy: 119, 30
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: true
+  xy: 350, 162
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+zt2
+  rotate: false
+  xy: 128, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+zt3
+  rotate: false
+  xy: 376, 197
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1

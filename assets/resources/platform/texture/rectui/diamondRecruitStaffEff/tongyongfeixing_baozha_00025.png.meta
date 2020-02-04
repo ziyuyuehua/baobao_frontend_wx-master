@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "33b9c5e8-b814-451b-a9f8-dc5caac6e073",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "tongyongfeixing_baozha_00025": {
+      "ver": "1.0.4",
+      "uuid": "56b8d5cf-f9e4-4f75-a799-db716123c17f",
+      "rawTextureUuid": "33b9c5e8-b814-451b-a9f8-dc5caac6e073",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": -1.5,
+      "trimX": 12,
+      "trimY": 14,
+      "width": 259,
+      "height": 253,
+      "rawWidth": 293,
+      "rawHeight": 278,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

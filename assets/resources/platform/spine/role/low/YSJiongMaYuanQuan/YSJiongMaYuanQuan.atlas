@@ -1,0 +1,167 @@
+
+YSJiongMaYuanQuan.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 362, 57
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 292, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+dayi_l
+  rotate: true
+  xy: 292, 41
+  size: 21, 62
+  orig: 21, 62
+  offset: 0, 0
+  index: -1
+dayi_r
+  rotate: true
+  xy: 179, 6
+  size: 15, 60
+  orig: 15, 60
+  offset: 0, 0
+  index: -1
+dayidi
+  rotate: true
+  xy: 292, 7
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 362, 91
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hand_l 1
+  rotate: true
+  xy: 327, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+hand_l 2
+  rotate: true
+  xy: 241, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+hand_l 3
+  rotate: false
+  xy: 356, 21
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+hand_r 1
+  rotate: true
+  xy: 482, 105
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+hand_r 2
+  rotate: false
+  xy: 356, 34
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+hand_r 3
+  rotate: false
+  xy: 454, 85
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 179, 23
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+leg_l 1
+  rotate: false
+  xy: 399, 59
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+leg_l 2
+  rotate: false
+  xy: 377, 39
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+leg_l 3
+  rotate: false
+  xy: 434, 87
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+leg_r 1
+  rotate: true
+  xy: 266, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+leg_r 2
+  rotate: true
+  xy: 352, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+leg_r 3
+  rotate: true
+  xy: 368, 2
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 362, 84
+  size: 56, 5
+  orig: 56, 5
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 327, 21
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 434, 100
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1

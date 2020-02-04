@@ -1,0 +1,69 @@
+
+recruit_daletouguang2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daletou_chengse/daletou_chengse_00000
+  rotate: false
+  xy: 2, 132
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+daletou_chengse/daletou_chengse_00002
+  rotate: false
+  xy: 135, 262
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+daletou_chengse/daletou_chengse_00004
+  rotate: false
+  xy: 2, 2
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+daletou_chengse/daletou_chengse_00006
+  rotate: false
+  xy: 135, 132
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+daletou_chengse/daletou_chengse_00008
+  rotate: false
+  xy: 268, 262
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+daletou_chengse/daletou_chengse_00010
+  rotate: false
+  xy: 135, 2
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+daletou_chengse/daletou_chengse_00012
+  rotate: false
+  xy: 268, 132
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+daletou_chengse/daletou_chengse_00014
+  rotate: false
+  xy: 268, 2
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1
+daletou_chengse/daletou_chengse_00016
+  rotate: false
+  xy: 2, 262
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1

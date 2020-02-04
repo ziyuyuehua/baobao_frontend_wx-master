@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "ea5822b0-bf8f-455f-9c14-979085db5235",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "jingshengtubiao_tishi_tongyong_00004": {
+      "ver": "1.0.4",
+      "uuid": "b030d03e-735d-40cf-9b4c-a972d1fb813e",
+      "rawTextureUuid": "ea5822b0-bf8f-455f-9c14-979085db5235",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 79,
+      "height": 78,
+      "rawWidth": 80,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

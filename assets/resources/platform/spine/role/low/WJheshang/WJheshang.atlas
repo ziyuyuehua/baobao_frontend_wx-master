@@ -1,0 +1,188 @@
+
+WJheshang.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 38, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 51, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 277, 29
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 64, 14
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 370, 80
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 397, 117
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 26
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 243, 9
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+chui
+  rotate: false
+  xy: 74, 20
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 2, 4
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 243, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 262, 17
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 320, 75
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+hqi
+  rotate: false
+  xy: 243, 40
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+hqi1
+  rotate: false
+  xy: 89, 59
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+hqi2
+  rotate: false
+  xy: 89, 3
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+hqi3
+  rotate: false
+  xy: 166, 2
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+hqi4
+  rotate: false
+  xy: 166, 61
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+hqi5
+  rotate: false
+  xy: 243, 83
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 320, 55
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 38, 13
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 370, 91
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+muyu
+  rotate: false
+  xy: 386, 104
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+other
+  rotate: false
+  xy: 349, 61
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 320, 42
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 370, 113
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "65dfd0c0-e8c4-4b1f-a494-2e8053172ae0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "shop_mianban": {
+      "ver": "1.0.4",
+      "uuid": "c2e52311-2251-4d7d-a445-04490baae013",
+      "rawTextureUuid": "65dfd0c0-e8c4-4b1f-a494-2e8053172ae0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 105,
+      "height": 80,
+      "rawWidth": 105,
+      "rawHeight": 80,
+      "borderTop": 33,
+      "borderBottom": 29,
+      "borderLeft": 45,
+      "borderRight": 37,
+      "subMetas": {}
+    }
+  }
+}

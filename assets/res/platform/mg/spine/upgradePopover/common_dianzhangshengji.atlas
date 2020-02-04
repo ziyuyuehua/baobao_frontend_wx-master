@@ -1,0 +1,125 @@
+
+common_dianzhangshengji.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daxingxing
+  rotate: false
+  xy: 2, 85
+  size: 172, 167
+  orig: 172, 167
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 254
+  size: 379, 256
+  orig: 379, 256
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: false
+  xy: 248, 184
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 383, 256
+  size: 254, 66
+  orig: 254, 66
+  offset: 0, 0
+  index: -1
+piaodai3
+  rotate: true
+  xy: 176, 86
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+piaodai4
+  rotate: false
+  xy: 2, 2
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 451, 271
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 248, 159
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: false
+  xy: 482, 271
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+xingxing4
+  rotate: false
+  xy: 486, 485
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+xingxing5
+  rotate: false
+  xy: 354, 226
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xingxing6
+  rotate: false
+  xy: 451, 346
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+xingxing7
+  rotate: false
+  xy: 451, 302
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+xingxing8
+  rotate: false
+  xy: 303, 203
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+youjiantou
+  rotate: false
+  xy: 176, 159
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 451, 395
+  size: 115, 33
+  orig: 115, 33
+  offset: 0, 0
+  index: -1
+zuojiantou
+  rotate: false
+  xy: 86, 3
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "longOrderItemAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0833333333333335,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 1.0416666666666667,
+          "value": -106
+        },
+        {
+          "frame": 1.25,
+          "value": -100
+        },
+        {
+          "frame": 1.875,
+          "value": -100
+        },
+        {
+          "frame": 2.0833333333333335,
+          "value": -105
+        }
+      ],
+      "angle": [
+        {
+          "frame": 1.0416666666666667,
+          "value": 0
+        },
+        {
+          "frame": 1.25,
+          "value": 0
+        },
+        {
+          "frame": 1.375,
+          "value": 5
+        },
+        {
+          "frame": 1.5,
+          "value": -5
+        },
+        {
+          "frame": 1.625,
+          "value": 5
+        },
+        {
+          "frame": 1.75,
+          "value": -5
+        },
+        {
+          "frame": 1.875,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,62 @@
+
+job_jiesuo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suo1
+  rotate: false
+  xy: 2, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+suo2
+  rotate: false
+  xy: 317, 204
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+tongyongfeixing_baozha_00016
+  rotate: false
+  xy: 2, 21
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+tongyongfeixing_baozha_00018
+  rotate: false
+  xy: 107, 120
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+tongyongfeixing_baozha_00020
+  rotate: false
+  xy: 107, 21
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+tongyongfeixing_baozha_00022
+  rotate: false
+  xy: 212, 120
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+tongyongfeixing_baozha_00024
+  rotate: false
+  xy: 212, 21
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+tongyongfeixing_baozha_00026
+  rotate: false
+  xy: 2, 120
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1

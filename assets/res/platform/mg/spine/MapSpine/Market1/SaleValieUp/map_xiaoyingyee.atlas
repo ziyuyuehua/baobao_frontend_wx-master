@@ -1,0 +1,27 @@
+
+map_xiaoyingyee.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantou
+  rotate: true
+  xy: 199, 2
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 2, 15
+  size: 103, 46
+  orig: 103, 46
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 107, 27
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1

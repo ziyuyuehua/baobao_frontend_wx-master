@@ -1,0 +1,181 @@
+
+YSAiQingGongYuXiaoXian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 70
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 72, 25
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 6
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 97
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 134
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 325, 161
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 199, 98
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: false
+  xy: 204, 72
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: true
+  xy: 226, 76
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: false
+  xy: 285, 122
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+hand_r2
+  rotate: false
+  xy: 247, 99
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+hand_r3
+  rotate: false
+  xy: 247, 79
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 234, 152
+  size: 89, 93
+  orig: 89, 93
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 411, 181
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 127, 66
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: false
+  xy: 178, 68
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: false
+  xy: 312, 127
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: true
+  xy: 269, 99
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 72, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: false
+  xy: 225, 98
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: false
+  xy: 268, 81
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 411, 150
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 463, 222
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 411, 212
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 234, 121
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1

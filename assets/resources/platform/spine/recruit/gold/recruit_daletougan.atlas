@@ -1,0 +1,20 @@
+
+recruit_daletougan.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ganzi1
+  rotate: true
+  xy: 2, 2
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+ganzi2
+  rotate: false
+  xy: 2, 39
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

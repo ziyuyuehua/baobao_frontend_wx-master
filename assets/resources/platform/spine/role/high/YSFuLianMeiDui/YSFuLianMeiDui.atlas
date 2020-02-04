@@ -1,0 +1,174 @@
+
+YSFuLianMeiDui.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 68
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 4
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 95
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+dun
+  rotate: false
+  xy: 237, 190
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: true
+  xy: 481, 225
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: true
+  xy: 377, 221
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: false
+  xy: 110, 23
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: false
+  xy: 199, 100
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+hand_r2
+  rotate: true
+  xy: 407, 221
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+hand_r3
+  rotate: false
+  xy: 433, 221
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 288, 215
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 127, 70
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 288, 195
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: true
+  xy: 172, 69
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: false
+  xy: 200, 77
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: false
+  xy: 72, 2
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 456, 223
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: true
+  xy: 110, 45
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: false
+  xy: 130, 52
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 72, 22
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 237, 133
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 127, 132
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 333, 217
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 237, 161
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+ZYOuXiangZhangPD.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 386, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+ershi
+  rotate: false
+  xy: 433, 31
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 489, 37
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 282, 27
+  size: 60, 5
+  orig: 60, 5
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 243, 12
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+siahong
+  rotate: false
+  xy: 282, 21
+  size: 56, 4
+  orig: 56, 4
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 288, 34
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 179, 40
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+waitaozuo
+  rotate: true
+  xy: 456, 109
+  size: 17, 54
+  orig: 17, 54
+  offset: 0, 0
+  index: -1
+weitaoyou
+  rotate: true
+  xy: 456, 96
+  size: 11, 54
+  orig: 11, 54
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 199, 13
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 456, 67
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 179, 2
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 386, 37
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 467, 25
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1

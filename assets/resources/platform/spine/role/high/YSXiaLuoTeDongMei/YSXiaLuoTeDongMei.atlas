@@ -1,0 +1,139 @@
+
+YSXiaLuoTeDongMei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 71
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 7
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 72, 45
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 444, 200
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 434, 157
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+mawei
+  rotate: false
+  xy: 127, 78
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 127, 72
+  size: 42, 4
+  orig: 42, 4
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 409, 207
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 228, 142
+  size: 52, 6
+  orig: 52, 6
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: true
+  xy: 190, 91
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 324, 154
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 228, 150
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+toufadi
+  rotate: false
+  xy: 127, 134
+  size: 99, 112
+  orig: 99, 112
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 434, 175
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: true
+  xy: 409, 165
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 72, 21
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 72, 2
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 444, 223
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 216, 98
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1

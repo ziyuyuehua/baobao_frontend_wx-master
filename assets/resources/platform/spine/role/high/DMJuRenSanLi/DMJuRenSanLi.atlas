@@ -1,0 +1,188 @@
+
+DMJuRenSanLi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 424, 215
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 236, 150
+  size: 54, 5
+  orig: 54, 5
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 107
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 144
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 236, 157
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 334, 160
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 424, 174
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 72, 30
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 127, 81
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 199, 120
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 457, 230
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 72, 53
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: true
+  xy: 171, 82
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 93, 5
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: true
+  xy: 474, 183
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+yt1
+  rotate: false
+  xy: 452, 180
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+yt2
+  rotate: false
+  xy: 137, 61
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+yt3
+  rotate: true
+  xy: 493, 184
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 72, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: true
+  xy: 457, 205
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: true
+  xy: 117, 57
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: true
+  xy: 424, 153
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+zt2
+  rotate: false
+  xy: 486, 206
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+zt3
+  rotate: true
+  xy: 157, 60
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1

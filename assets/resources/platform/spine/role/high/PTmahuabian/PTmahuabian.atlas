@@ -1,0 +1,188 @@
+
+PTmahuabian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 73
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 226, 126
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 9
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 2, 2
+  size: 54, 5
+  orig: 54, 5
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 82
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 226, 164
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 127, 119
+  size: 97, 129
+  orig: 97, 129
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 324, 162
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 418, 222
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 459, 227
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 260, 139
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 199, 84
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 418, 196
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 72, 47
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: false
+  xy: 303, 138
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: true
+  xy: 96, 27
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: false
+  xy: 386, 147
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+yt1
+  rotate: false
+  xy: 459, 204
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+yt2
+  rotate: true
+  xy: 480, 206
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+yt3
+  rotate: false
+  xy: 440, 180
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 72, 20
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 324, 140
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: false
+  xy: 459, 188
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: false
+  xy: 418, 173
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+zt2
+  rotate: false
+  xy: 346, 141
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zt3
+  rotate: false
+  xy: 367, 146
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1

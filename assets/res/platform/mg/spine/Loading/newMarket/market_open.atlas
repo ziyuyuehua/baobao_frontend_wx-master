@@ -1,0 +1,62 @@
+
+market_open.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ditu
+  rotate: false
+  xy: 2, 196
+  size: 450, 800
+  orig: 450, 800
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 238, 37
+  size: 214, 157
+  orig: 214, 157
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: true
+  xy: 906, 866
+  size: 130, 107
+  orig: 130, 107
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 454, 238
+  size: 450, 332
+  orig: 450, 332
+  offset: 0, 0
+  index: -1
+yun3
+  rotate: false
+  xy: 454, 572
+  size: 450, 424
+  orig: 450, 424
+  offset: 0, 0
+  index: -1
+yun4
+  rotate: false
+  xy: 454, 166
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+yun5
+  rotate: false
+  xy: 906, 797
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+yun6
+  rotate: false
+  xy: 2, 2
+  size: 234, 192
+  orig: 234, 192
+  offset: 0, 0
+  index: -1

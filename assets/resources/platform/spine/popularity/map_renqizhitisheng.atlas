@@ -1,0 +1,111 @@
+
+map_renqizhitisheng.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 315
+  size: 352, 173
+  orig: 352, 173
+  offset: 0, 0
+  index: -1
+kjcg
+  rotate: true
+  xy: 2, 2
+  size: 107, 21
+  orig: 107, 21
+  offset: 0, 0
+  index: -1
+kjcg2
+  rotate: false
+  xy: 2, 211
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+kjcg3
+  rotate: false
+  xy: 2, 263
+  size: 253, 50
+  orig: 253, 50
+  offset: 0, 0
+  index: -1
+qiqiu1
+  rotate: false
+  xy: 2, 111
+  size: 76, 98
+  orig: 76, 98
+  offset: 0, 0
+  index: -1
+qiqiu2
+  rotate: false
+  xy: 435, 418
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+qiqiu3
+  rotate: false
+  xy: 356, 373
+  size: 77, 115
+  orig: 77, 115
+  offset: 0, 0
+  index: -1
+qiqiu6
+  rotate: true
+  xy: 356, 313
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 80, 115
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 25, 10
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: false
+  xy: 257, 265
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+xingxing4
+  rotate: false
+  xy: 194, 203
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+xingxing5
+  rotate: false
+  xy: 435, 375
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+xingxing6
+  rotate: true
+  xy: 25, 45
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+xingxing7
+  rotate: false
+  xy: 80, 151
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1

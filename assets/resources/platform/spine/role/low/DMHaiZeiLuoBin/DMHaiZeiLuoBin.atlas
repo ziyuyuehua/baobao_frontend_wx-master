@@ -1,0 +1,160 @@
+
+DMHaiZeiLuoBin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 72
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 429, 207
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 8
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 2, 2
+  size: 52, 4
+  orig: 52, 4
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 74
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 234, 158
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 127, 111
+  size: 105, 136
+  orig: 105, 136
+  offset: 0, 0
+  index: -1
+hand_l 1
+  rotate: false
+  xy: 199, 83
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+hand_l 2
+  rotate: false
+  xy: 429, 185
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+hand_l 3
+  rotate: false
+  xy: 459, 228
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+hand_r 1
+  rotate: false
+  xy: 271, 131
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+hand_r 2
+  rotate: true
+  xy: 271, 112
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+hand_r 3
+  rotate: false
+  xy: 429, 165
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 335, 161
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+leg_l 1
+  rotate: true
+  xy: 311, 143
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+leg_l 2
+  rotate: false
+  xy: 91, 24
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+leg_l 3
+  rotate: false
+  xy: 459, 209
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+leg_r 1
+  rotate: true
+  xy: 481, 233
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+leg_r 2
+  rotate: false
+  xy: 292, 138
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+leg_r 3
+  rotate: false
+  xy: 72, 22
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 234, 112
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 72, 43
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1

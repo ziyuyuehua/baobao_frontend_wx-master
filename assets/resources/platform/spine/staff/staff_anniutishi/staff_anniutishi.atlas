@@ -1,0 +1,55 @@
+
+staff_anniutishi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu_xinxin/VX_baobaotezhi_anniu_xinxin_alpha_00000
+  rotate: false
+  xy: 308, 132
+  size: 84, 82
+  orig: 107, 105
+  offset: 12, 11
+  index: -1
+anniu_xinxin/VX_baobaotezhi_anniu_xinxin_alpha_00002
+  rotate: false
+  xy: 220, 129
+  size: 86, 85
+  orig: 107, 105
+  offset: 11, 9
+  index: -1
+anniu_xinxin/VX_baobaotezhi_anniu_xinxin_alpha_00004
+  rotate: false
+  xy: 111, 9
+  size: 99, 98
+  orig: 107, 105
+  offset: 5, 3
+  index: -1
+anniu_xinxin/VX_baobaotezhi_anniu_xinxin_alpha_00006
+  rotate: false
+  xy: 2, 2
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+anniu_xinxin/VX_baobaotezhi_anniu_xinxin_alpha_00008
+  rotate: false
+  xy: 111, 109
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+anniu_xinxin/VX_baobaotezhi_anniu_xinxin_alpha_00010
+  rotate: false
+  xy: 2, 109
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+tezi3
+  rotate: false
+  xy: 394, 149
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1

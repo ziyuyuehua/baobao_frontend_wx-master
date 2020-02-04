@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lightRotate",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.375,
+  "sample": 16,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8286aabb-5b8a-4f69-84a3-b510177580d8"
+            }
+          },
+          {
+            "frame": 0.0625,
+            "value": {
+              "__uuid__": "0ed19c8c-a839-4015-b4a4-d820ef87ff36"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "a5dd57f8-1f49-49b5-bc05-14f6b3328998"
+            }
+          },
+          {
+            "frame": 0.1875,
+            "value": {
+              "__uuid__": "81697b91-b4fa-4c48-8545-560b433ff249"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "14517c64-4bca-4ee8-b505-5116717dfa7f"
+            }
+          },
+          {
+            "frame": 0.3125,
+            "value": {
+              "__uuid__": "eeed2e50-41af-4769-8b44-524a370af909"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

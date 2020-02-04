@@ -1,0 +1,62 @@
+
+favor_haogantisheng.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+en1
+  rotate: false
+  xy: 2, 281
+  size: 354, 181
+  orig: 354, 181
+  offset: 0, 0
+  index: -1
+en2
+  rotate: true
+  xy: 356, 190
+  size: 89, 25
+  orig: 89, 25
+  offset: 0, 0
+  index: -1
+en3
+  rotate: false
+  xy: 2, 2
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+en4
+  rotate: false
+  xy: 358, 407
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+en5
+  rotate: false
+  xy: 358, 344
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+en6
+  rotate: false
+  xy: 358, 281
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+en7
+  rotate: false
+  xy: 2, 54
+  size: 253, 50
+  orig: 253, 50
+  offset: 0, 0
+  index: -1
+en8
+  rotate: false
+  xy: 2, 106
+  size: 352, 173
+  orig: 352, 173
+  offset: 0, 0
+  index: -1

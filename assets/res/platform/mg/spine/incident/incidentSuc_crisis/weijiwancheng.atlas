@@ -1,0 +1,104 @@
+
+weijiwancheng.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+en2
+  rotate: true
+  xy: 362, 134
+  size: 101, 28
+  orig: 101, 28
+  offset: 0, 0
+  index: -1
+en3
+  rotate: false
+  xy: 2, 2
+  size: 194, 50
+  orig: 194, 50
+  offset: 0, 0
+  index: -1
+en4
+  rotate: false
+  xy: 305, 130
+  size: 55, 105
+  orig: 55, 105
+  offset: 0, 0
+  index: -1
+en5
+  rotate: false
+  xy: 257, 56
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+en6
+  rotate: false
+  xy: 392, 188
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+en7
+  rotate: false
+  xy: 2, 54
+  size: 253, 49
+  orig: 253, 49
+  offset: 0, 0
+  index: -1
+en8
+  rotate: false
+  xy: 2, 105
+  size: 301, 149
+  orig: 301, 149
+  offset: 0, 0
+  index: -1
+en9
+  rotate: false
+  xy: 305, 237
+  size: 152, 17
+  orig: 152, 17
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 305, 90
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 303, 59
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: false
+  xy: 438, 184
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+xingxing4
+  rotate: false
+  xy: 198, 3
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+xingxing5
+  rotate: false
+  xy: 438, 207
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+xingxing6
+  rotate: true
+  xy: 392, 139
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1

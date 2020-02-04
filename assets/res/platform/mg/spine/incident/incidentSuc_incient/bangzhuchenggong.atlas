@@ -1,0 +1,125 @@
+
+bangzhuchenggong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+en1
+  rotate: true
+  xy: 305, 31
+  size: 223, 68
+  orig: 223, 68
+  offset: 0, 0
+  index: -1
+en2
+  rotate: true
+  xy: 375, 84
+  size: 100, 28
+  orig: 100, 28
+  offset: 0, 0
+  index: -1
+en3
+  rotate: false
+  xy: 2, 2
+  size: 194, 50
+  orig: 194, 50
+  offset: 0, 0
+  index: -1
+en4
+  rotate: false
+  xy: 375, 186
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+en5
+  rotate: false
+  xy: 405, 138
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+en6
+  rotate: false
+  xy: 257, 46
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+en7
+  rotate: false
+  xy: 2, 54
+  size: 253, 49
+  orig: 253, 49
+  offset: 0, 0
+  index: -1
+en8
+  rotate: false
+  xy: 2, 105
+  size: 301, 149
+  orig: 301, 149
+  offset: 0, 0
+  index: -1
+fenqiqiu
+  rotate: false
+  xy: 405, 91
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+qiqiu5
+  rotate: true
+  xy: 443, 183
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 375, 48
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+xingxing2
+  rotate: false
+  xy: 253, 9
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+xingxing3
+  rotate: false
+  xy: 347, 8
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+xingxing4
+  rotate: false
+  xy: 198, 3
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+xingxing5
+  rotate: true
+  xy: 290, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+xingxing6
+  rotate: false
+  xy: 443, 205
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+xingxing7
+  rotate: false
+  xy: 320, 4
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

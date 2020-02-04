@@ -1,0 +1,153 @@
+
+ZYJiXianTiaoZhanLeiDaTou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 381, 136
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 127, 101
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 2, 2
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: false
+  xy: 278, 124
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: true
+  xy: 209, 105
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 323, 172
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 127, 43
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 429, 159
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 229, 157
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 429, 219
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: true
+  xy: 72, 21
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 487, 216
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 105, 40
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 127, 151
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 429, 186
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 236, 122
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 236, 101
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 127, 70
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 323, 139
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1

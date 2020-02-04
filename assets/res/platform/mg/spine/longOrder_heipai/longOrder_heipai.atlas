@@ -1,0 +1,20 @@
+
+longOrder_heipai.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: true
+  xy: 2, 23
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 2, 2
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1

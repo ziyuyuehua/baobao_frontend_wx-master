@@ -1,0 +1,90 @@
+
+PTtianranjuan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 46, 2
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: true
+  xy: 93, 113
+  size: 56, 5
+  orig: 56, 5
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: false
+  xy: 115, 201
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 171
+  size: 111, 83
+  orig: 111, 83
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 2, 2
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 115, 177
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 74
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+lanzi1
+  rotate: false
+  xy: 2, 31
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 156, 220
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 176, 224
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 77, 42
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 50, 31
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1

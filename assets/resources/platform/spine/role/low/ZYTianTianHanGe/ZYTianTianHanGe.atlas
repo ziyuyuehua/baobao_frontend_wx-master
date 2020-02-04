@@ -1,0 +1,167 @@
+
+ZYTianTianHanGe.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 318, 19
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 368, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+clothes_l
+  rotate: true
+  xy: 368, 47
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+clothes_r
+  rotate: true
+  xy: 269, 31
+  size: 13, 47
+  orig: 13, 47
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 438, 91
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 179, 9
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 269, 46
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 257, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: false
+  xy: 355, 19
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: false
+  xy: 483, 37
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: false
+  xy: 379, 21
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+hand_r2
+  rotate: true
+  xy: 437, 37
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+hand_r3
+  rotate: false
+  xy: 423, 16
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 179, 32
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: false
+  xy: 295, 8
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: false
+  xy: 415, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: true
+  xy: 494, 70
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 461, 37
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: true
+  xy: 401, 20
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: true
+  xy: 379, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 278, 2
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 438, 58
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+staff_peixunchenggong.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+px1
+  rotate: false
+  xy: 257, 75
+  size: 100, 28
+  orig: 100, 28
+  offset: 0, 0
+  index: -1
+px2
+  rotate: false
+  xy: 2, 2
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+px3
+  rotate: false
+  xy: 2, 54
+  size: 253, 49
+  orig: 253, 49
+  offset: 0, 0
+  index: -1
+px5
+  rotate: false
+  xy: 194, 27
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1

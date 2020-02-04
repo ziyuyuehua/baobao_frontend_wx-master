@@ -1,0 +1,153 @@
+
+YSHuiJiaShiXian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 66
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 72, 24
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 2
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 114
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 151
+  size: 106, 90
+  orig: 106, 90
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 337, 157
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+hand_l 1
+  rotate: false
+  xy: 427, 186
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+hand_l 2
+  rotate: false
+  xy: 199, 123
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+hand_l 3
+  rotate: false
+  xy: 451, 194
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+hand_r 2
+  rotate: false
+  xy: 72, 2
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hand_r 3
+  rotate: false
+  xy: 150, 75
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: false
+  xy: 127, 70
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 235, 152
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+leg_l 1
+  rotate: false
+  xy: 476, 217
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+leg_l 2
+  rotate: false
+  xy: 107, 41
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+leg_l 3
+  rotate: false
+  xy: 127, 52
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+leg_r 1
+  rotate: false
+  xy: 427, 165
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+leg_r 2
+  rotate: false
+  xy: 166, 94
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+leg_r 3
+  rotate: false
+  xy: 107, 24
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 127, 94
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 427, 212
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1

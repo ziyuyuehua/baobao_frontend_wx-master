@@ -1,0 +1,125 @@
+
+ZYbaijingting.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 336, 191
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 336, 166
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 72, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 72, 33
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 396, 228
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 127, 150
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 229, 167
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 336, 221
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 443, 228
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 127, 104
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 175, 78
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 229, 146
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+zhi
+  rotate: false
+  xy: 381, 213
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 127, 78
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 490, 211
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1

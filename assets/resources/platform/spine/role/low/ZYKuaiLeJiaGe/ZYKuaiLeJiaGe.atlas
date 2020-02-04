@@ -1,0 +1,90 @@
+
+ZYKuaiLeJiaGe.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 2
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 393, 63
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 443, 22
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 179, 8
+  size: 57, 6
+  orig: 57, 6
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 463, 54
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 179, 16
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 283, 35
+  size: 108, 90
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 393, 32
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: true
+  xy: 463, 104
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 330, 12
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 283, 7
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 463, 33
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1

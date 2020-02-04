@@ -1,0 +1,181 @@
+
+PTcemawei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 72, 29
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 2, 7
+  size: 56, 6
+  orig: 56, 6
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 121
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 158
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 334, 178
+  size: 28, 76
+  orig: 28, 76
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 199, 132
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: false
+  xy: 386, 180
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: true
+  xy: 352, 162
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+hand_r1
+  rotate: false
+  xy: 173, 98
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+hand_r2
+  rotate: false
+  xy: 452, 238
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+hand_r3
+  rotate: true
+  xy: 113, 44
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 235, 164
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 364, 199
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 409, 231
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: false
+  xy: 364, 180
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: true
+  xy: 474, 238
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: true
+  xy: 220, 139
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 494, 237
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: true
+  xy: 334, 161
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: true
+  xy: 113, 62
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 364, 228
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 72, 2
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 127, 93
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1

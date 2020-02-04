@@ -1,0 +1,202 @@
+
+PTtianranjuan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 483, 217
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: true
+  xy: 224, 112
+  size: 56, 5
+  orig: 56, 5
+  offset: 0, 0
+  index: -1
+clothes
+  rotate: false
+  xy: 305, 199
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 72, 42
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 127, 170
+  size: 116, 84
+  orig: 116, 84
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 116, 18
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+hand_l2
+  rotate: true
+  xy: 333, 176
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+hand_l3
+  rotate: false
+  xy: 464, 213
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+hand_r 1
+  rotate: false
+  xy: 290, 174
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+hand_r 2
+  rotate: true
+  xy: 397, 207
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hand_r 3
+  rotate: false
+  xy: 116, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 127, 79
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+hezi1
+  rotate: false
+  xy: 245, 198
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 144, 50
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 440, 231
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+lanzi1
+  rotate: false
+  xy: 349, 213
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+leg_l1
+  rotate: false
+  xy: 444, 211
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+leg_l2
+  rotate: false
+  xy: 313, 176
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+leg_l3
+  rotate: false
+  xy: 349, 199
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+leg_r1
+  rotate: true
+  xy: 424, 208
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+leg_r2
+  rotate: false
+  xy: 231, 151
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+leg_r3
+  rotate: true
+  xy: 133, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 72, 15
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 187, 62
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 397, 229
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 245, 171
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1

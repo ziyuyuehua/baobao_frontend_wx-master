@@ -1,0 +1,27 @@
+
+recruit_niudanji5.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tei3
+  rotate: false
+  xy: 91, 20
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+tei4
+  rotate: false
+  xy: 2, 2
+  size: 87, 124
+  orig: 87, 124
+  offset: 0, 0
+  index: -1
+tei5
+  rotate: false
+  xy: 178, 33
+  size: 72, 93
+  orig: 72, 93
+  offset: 0, 0
+  index: -1

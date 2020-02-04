@@ -1,0 +1,188 @@
+
+DMHaiZeiSuoLong.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 154, 2
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 127, 101
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: true
+  xy: 217, 184
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hand_l 1
+  rotate: true
+  xy: 103, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+hand_l 2
+  rotate: false
+  xy: 129, 2
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+hand_l 3
+  rotate: false
+  xy: 198, 27
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+hand_r 1
+  rotate: false
+  xy: 127, 79
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+hand_r 2
+  rotate: false
+  xy: 191, 5
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+hand_r 3
+  rotate: false
+  xy: 217, 30
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 127, 165
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+hear
+  rotate: false
+  xy: 2, 3
+  size: 99, 74
+  orig: 99, 74
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 197, 67
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: true
+  xy: 228, 140
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+leg_l 1
+  rotate: false
+  xy: 198, 44
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+leg_l 2
+  rotate: false
+  xy: 216, 46
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+leg_l 3
+  rotate: false
+  xy: 233, 34
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+leg_r 1
+  rotate: false
+  xy: 208, 6
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+leg_r 2
+  rotate: false
+  xy: 233, 48
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+leg_r 3
+  rotate: false
+  xy: 223, 15
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 154, 33
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 228, 107
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+waist3
+  rotate: false
+  xy: 154, 64
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 103, 25
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 197, 111
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: true
+  xy: 227, 65
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1

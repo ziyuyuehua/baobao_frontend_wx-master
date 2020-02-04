@@ -1,0 +1,90 @@
+
+CJ7.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengzi
+  rotate: true
+  xy: 385, 61
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+fadi2
+  rotate: false
+  xy: 252, 70
+  size: 131, 56
+  orig: 131, 56
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: false
+  xy: 2, 16
+  size: 133, 110
+  orig: 133, 110
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 459, 96
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 252, 27
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 294, 30
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 137, 21
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 252, 2
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 325, 31
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 137, 2
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 459, 72
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 349, 32
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1

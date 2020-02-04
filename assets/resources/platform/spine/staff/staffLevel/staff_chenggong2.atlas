@@ -1,0 +1,13 @@
+
+staff_chenggong2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuangong8
+  rotate: false
+  xy: 0, 0
+  size: 500, 250
+  orig: 500, 250
+  offset: 0, 0
+  index: -1

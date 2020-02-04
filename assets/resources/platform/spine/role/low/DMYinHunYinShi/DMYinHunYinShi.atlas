@@ -1,0 +1,167 @@
+
+DMYinHunYinShi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 380, 64
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+chuandan1
+  rotate: false
+  xy: 179, 3
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+chuandan2
+  rotate: false
+  xy: 452, 7
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 380, 27
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 221, 9
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 450, 75
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 452, 39
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 290, 33
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 179, 27
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: true
+  xy: 485, 85
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+yuo_shou_1
+  rotate: false
+  xy: 299, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+yuo_shou_2
+  rotate: false
+  xy: 488, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yuo_shou_3
+  rotate: false
+  xy: 487, 41
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+yuo_tui_1
+  rotate: true
+  xy: 283, 7
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+yuo_tui_2
+  rotate: false
+  xy: 335, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+yuo_tui_3
+  rotate: true
+  xy: 337, 17
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+zuo_shou_1
+  rotate: false
+  xy: 488, 19
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+zuo_shou_2
+  rotate: false
+  xy: 487, 62
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+zuo_shou_3
+  rotate: true
+  xy: 257, 6
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+zuo_tui_1
+  rotate: false
+  xy: 317, 17
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+zuo_tui_2
+  rotate: false
+  xy: 317, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+zuo_tui_3
+  rotate: false
+  xy: 351, 19
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1

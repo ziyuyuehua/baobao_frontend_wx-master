@@ -1,0 +1,188 @@
+
+position_zhiweijinsheng3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: true
+  xy: 410, 211
+  size: 299, 45
+  orig: 299, 45
+  offset: 0, 0
+  index: -1
+deng1
+  rotate: true
+  xy: 289, 194
+  size: 118, 58
+  orig: 118, 58
+  offset: 0, 0
+  index: -1
+deng2
+  rotate: true
+  xy: 310, 31
+  size: 102, 52
+  orig: 102, 52
+  offset: 0, 0
+  index: -1
+deng3
+  rotate: true
+  xy: 240, 103
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+dianzhang
+  rotate: true
+  xy: 355, 321
+  size: 189, 53
+  orig: 189, 53
+  offset: 0, 0
+  index: -1
+hengfu
+  rotate: true
+  xy: 240, 135
+  size: 177, 47
+  orig: 177, 47
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 2, 314
+  size: 351, 196
+  orig: 351, 196
+  offset: 0, 0
+  index: -1
+huizhang
+  rotate: true
+  xy: 389, 67
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+laba1
+  rotate: true
+  xy: 457, 188
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+laba2
+  rotate: true
+  xy: 355, 268
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: false
+  xy: 364, 2
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 349, 218
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 2, 103
+  size: 236, 209
+  orig: 236, 209
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 457, 143
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 451, 112
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: false
+  xy: 349, 196
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: false
+  xy: 310, 11
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+shu5
+  rotate: false
+  xy: 451, 93
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+shu6
+  rotate: false
+  xy: 398, 137
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+shu7
+  rotate: true
+  xy: 499, 473
+  size: 37, 10
+  orig: 37, 10
+  offset: 0, 0
+  index: -1
+taijie
+  rotate: true
+  xy: 457, 241
+  size: 269, 40
+  orig: 269, 40
+  offset: 0, 0
+  index: -1
+taizi
+  rotate: false
+  xy: 2, 12
+  size: 306, 89
+  orig: 306, 89
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 451, 67
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+xiangzi
+  rotate: false
+  xy: 398, 159
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+zhiweijingsheng
+  rotate: true
+  xy: 364, 50
+  size: 83, 23
+  orig: 83, 23
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 289, 135
+  size: 107, 57
+  orig: 107, 57
+  offset: 0, 0
+  index: -1

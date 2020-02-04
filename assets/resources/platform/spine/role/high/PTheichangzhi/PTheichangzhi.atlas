@@ -1,0 +1,139 @@
+
+PTheichangzhi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 66
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 415, 168
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 2
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 326, 141
+  size: 54, 5
+  orig: 54, 5
+  offset: 0, 0
+  index: -1
+diying
+  rotate: true
+  xy: 461, 171
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 228, 126
+  size: 96, 115
+  orig: 96, 115
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 127, 95
+  size: 99, 146
+  orig: 99, 146
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 326, 148
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 127, 67
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 271, 103
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 72, 41
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 168, 69
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 228, 100
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: false
+  xy: 72, 12
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 209, 77
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: true
+  xy: 498, 226
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 94, 13
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: true
+  xy: 415, 148
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: false
+  xy: 228, 84
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1

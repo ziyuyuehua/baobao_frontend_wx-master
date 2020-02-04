@@ -1,0 +1,188 @@
+
+DMFateSaber.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 79
+  size: 123, 175
+  orig: 123, 175
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 15
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+diying
+  rotate: false
+  xy: 127, 103
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+fadi
+  rotate: false
+  xy: 127, 140
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: false
+  xy: 428, 190
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+jusang
+  rotate: false
+  xy: 127, 80
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 72, 40
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+qun
+  rotate: false
+  xy: 428, 218
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: true
+  xy: 488, 218
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+shengqi
+  rotate: false
+  xy: 469, 167
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 337, 159
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 234, 145
+  size: 101, 109
+  orig: 101, 109
+  offset: 0, 0
+  index: -1
+weixiao
+  rotate: false
+  xy: 428, 164
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+xiyue
+  rotate: false
+  xy: 469, 192
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+yb1
+  rotate: true
+  xy: 72, 19
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+yb2
+  rotate: false
+  xy: 199, 113
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+yb3
+  rotate: false
+  xy: 94, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+yt1
+  rotate: false
+  xy: 99, 19
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+yt2
+  rotate: false
+  xy: 167, 83
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+yt3
+  rotate: false
+  xy: 72, 2
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 108, 51
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+zb2
+  rotate: false
+  xy: 488, 230
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+zb3
+  rotate: false
+  xy: 359, 143
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+zt1
+  rotate: true
+  xy: 337, 144
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+zt2
+  rotate: false
+  xy: 127, 59
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+zt3
+  rotate: true
+  xy: 148, 59
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "a65b1c3d-fa21-40ca-ad10-babd34761afe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_niuxzidian": {
+      "ver": "1.0.4",
+      "uuid": "39f79669-e796-46e8-b4f7-4c475172cf6a",
+      "rawTextureUuid": "a65b1c3d-fa21-40ca-ad10-babd34761afe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 2.5,
+      "trimX": 5,
+      "trimY": 7,
+      "width": 114,
+      "height": 107,
+      "rawWidth": 126,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
